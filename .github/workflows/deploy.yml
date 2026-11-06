@@ -1,5 +1,5 @@
 # ==============================================================================
-# Hark Botanical Biodesign Studio — GitHub Pages Automated CI/CD Workflow
+# Botanical Biodesign Reference Studio — GitHub Pages Automated CI/CD Workflow
 # Path in repository: .github/workflows/deploy.yml
 # ==============================================================================
 # 功能说明：
@@ -9,11 +9,11 @@
 #    - 强制校验 robots.txt 与 _headers 中的 noai, noimageai 防训练配置；
 #    - 自动校验构建产物总体积是否符合 GitHub Pages (< 1 GB) 限制。
 # 3. 兼容两种项目结构：
-#    - 模式 A（零依赖纯静态模式）：自动组装 index.html (或 hark_biodesign_studio.html) + public/ 资产目录；
+#    - 模式 A（零依赖纯静态模式）：自动组装 index.html (或 botanical_biodesign_studio.html) + public/ 资产目录；
 #    - 模式 B（Vite / React 工程模式）：若根目录存在 package.json，自动执行 npm ci && npm run build。
 # ==============================================================================
 
-name: Deploy Hark Botanical Biodesign Studio to GitHub Pages
+name: Deploy Botanical Biodesign Reference Studio to GitHub Pages
 
 on:
   push:
@@ -84,8 +84,8 @@ jobs:
             fi
             if [ -f "index.html" ]; then
               cp index.html _site/index.html
-            elif [ -f "hark_biodesign_studio.html" ]; then
-              cp hark_biodesign_studio.html _site/index.html
+            elif [ -f "botanical_biodesign_studio.html" ]; then
+              cp botanical_biodesign_studio.html _site/index.html
             fi
             # Copy README and asset license for transparency
             [ -f "README.md" ] && cp README.md _site/

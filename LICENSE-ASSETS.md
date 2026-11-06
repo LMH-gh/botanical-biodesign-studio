@@ -1,6 +1,6 @@
-# Hark Botanical Biodesign Visual Assets License (Non-Commercial & No-AI-Training)
+# Botanical Biodesign Visual Assets License (Non-Commercial & No-AI-Training)
 
-Copyright (c) 2026 Hark Botanical Biodesign Studio. All Rights Reserved.
+Copyright (c) 2026 Botanical Biodesign Reference Studio. All Rights Reserved.
 
 1. **Non-Commercial Use Only (严禁商业用途)**
    All botanical fashion images, multi-direction matrices (D1–D6),
@@ -16,6 +16,7 @@ Copyright (c) 2026 Hark Botanical Biodesign Studio. All Rights Reserved.
    machine learning, or computer vision model, nor include them in any dataset.
 
 3. **Technical Protection & TDM Reservation (技术保护声明)**
-   All images carry embedded `TDMRep: Reservation=1` EXIF metadata and are served
-   under `X-Robots-Tag: noai, noimageai`. Automated scraping or watermark removal
-   is strictly prohibited.
+   Images retain embedded `TDMRep: Reservation=1` EXIF metadata. The repository
+   includes crawler directives, but GitHub Pages does not apply `_headers` as
+   response headers. Automated scraping and removal of protection metadata are
+   prohibited.

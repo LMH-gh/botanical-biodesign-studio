@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Hark Botanical Biodesign Studio — Asset ETL, WebP Transcoder & Catalog Builder
+Botanical Biodesign Reference Studio — Asset ETL, WebP Transcoder & Catalog Builder
 ==============================================================================
 功能说明：
-1. 纯植物白名单清洗：遍历 5 个源目录（自动跳过非植物文件夹 hark-bikini2），
+1. 纯植物白名单清洗：遍历 5 个源目录（自动跳过非植物文件夹 bikini2），
    严格剔除所有视频 (.mp4/.mov)、技能规范文档 (.md/.json/.txt)、压缩包 (.zip)、
    4K 超分母图 (_FINAL_)、废稿 (_弃用/_R1/_R2) 以及真菌/地衣/动物/矿物/器物目录。
 2. 同源植物跨品类关联（Taxon ID Mapping）：自动将同一植物物种（如银杏、龟背竹、
@@ -26,7 +26,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
 
 try:
-    from PIL import Image, ImageDraw
+    from PIL import Image
 except ImportError:
     raise SystemExit("请先安装 Pillow: pip3 install Pillow")
 
@@ -79,7 +79,7 @@ BRYOPHYTE_KEYWORDS = ("藓", "地钱", "角苔", "sphagnum", "polytrichum", "fun
 ALGAE_KEYWORDS = ("藻", "角叉菜", "kelp", "macrocystis", "chondrus", "volvox", "acetabularia", "fucus", "codium", "padina", "caulerpa", "chara")
 
 COPYRIGHT_NOTICE = (
-    "Copyright (c) 2026 Hark Botanical Biodesign Studio. "
+    "Copyright (c) 2026 Botanical Biodesign Reference Studio. "
     "Non-Commercial Research & Reference Use Only. "
     "NO AI/ML MODEL TRAINING, NO LORA FINE-TUNING, NO DATASET SCRAPING ALLOWED. "
     "TDMRep: Reservation=1."
@@ -139,11 +139,32 @@ def is_excluded_non_plant(*labels: str) -> bool:
     return any(keyword.casefold() in text for keyword in EXCLUDED_NON_PLANT_KEYWORDS)
 
 
+def find_source_dir(source_root: Path, canonical_name: str) -> Path:
+    direct = source_root / canonical_name
+    if direct.exists():
+        return direct
+    matches = [
+        path for path in source_root.iterdir()
+        if path.is_dir() and path.name.casefold().endswith(canonical_name.casefold())
+    ]
+    return matches[0] if len(matches) == 1 else direct
+
+
+def find_habitat_source_dir(source_root: Path) -> Path:
+    direct = source_root / "habitat"
+    if direct.exists():
+        return direct
+    matches = [
+        path for path in source_root.iterdir()
+        if path.is_dir() and (next(path.glob("C*_final.png"), None) or next(path.glob("C*_终图.png"), None))
+    ]
+    return matches[0] if len(matches) == 1 else direct
+
+
 def transcode_webp_with_protection(
     src_path: Path,
     preview_out: Path,
     thumb_out: Optional[Path] = None,
-    add_subtle_watermark: bool = True,
 ) -> None:
     preview_out.parent.mkdir(parents=True, exist_ok=True)
     with Image.open(src_path) as im:
@@ -153,13 +174,8 @@ def transcode_webp_with_protection(
             scale = 1376.0 / max(w, h)
             im_rgb = im_rgb.resize((int(w * scale), int(h * scale)), Image.Resampling.LANCZOS)
 
-        if add_subtle_watermark and im_rgb.width >= 320:
-            draw = ImageDraw.Draw(im_rgb)
-            wm_text = "© Hark Biodesign · Non-Commercial · No AI Training"
-            draw.text((12, im_rgb.height - 20), wm_text, fill=(220, 225, 220))
-
-        exif = im_rgb.getexif()
-        exif[0x010E] = "Hark Botanical Biodesign Reference Studio (Pure Plant Series)"
+        exif = Image.Exif()
+        exif[0x010E] = "Botanical Biodesign Reference Studio (Pure Plant Series)"
         exif[0x8298] = COPYRIGHT_NOTICE
         im_rgb.save(preview_out, format="WEBP", quality=82, method=6, exif=exif.tobytes())
 
@@ -180,7 +196,7 @@ def is_valid_image_file(path: Path) -> bool:
 
 
 def write_anti_scraping_configs(out_dir: Path) -> None:
-    robots_txt = """# Hark Botanical Biodesign Studio — Anti-AI-Training & Anti-Scraping Policy
+    robots_txt = """# Botanical Biodesign Reference Studio — Anti-AI-Training & Anti-Scraping Policy
 # All visual assets are strictly Non-Commercial and PROHIBITED from AI/ML model training.
 
 User-agent: GPTBot
@@ -255,8 +271,8 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
     taxon_index: Dict[str, List[str]] = {}
     total_images_count = 0
 
-    # 1. 高定礼服 (hark-礼服设计)
-    gown_root = source_root / "hark-礼服设计"
+    # 1. 高定礼服
+    gown_root = find_source_dir(source_root, "礼服设计")
     if gown_root.exists():
         for folder in sorted(gown_root.rglob("L*_*")):
             if not folder.is_dir():
@@ -306,8 +322,8 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
                 })
                 taxon_index.setdefault(taxon_key, []).append(item_id)
 
-    # 2. 日常休闲矩阵 (hark-休闲服设计)
-    casual_root = source_root / "hark-休闲服设计"
+    # 2. 日常休闲矩阵
+    casual_root = find_source_dir(source_root, "休闲服设计")
     if casual_root.exists():
         for folder in sorted(casual_root.glob("C*-*")):
             if not folder.is_dir():
@@ -356,8 +372,8 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
                 })
                 taxon_index.setdefault(taxon_key, []).append(item_id)
 
-    # 3. 植物实景同框成衣 (hark-设计)
-    hab_root = source_root / "hark-设计"
+    # 3. 植物实景同框成衣
+    hab_root = find_habitat_source_dir(source_root)
     if hab_root.exists():
         habitat_names: Dict[int, str] = {}
         for folder in hab_root.iterdir():
@@ -413,8 +429,8 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
             })
             taxon_index.setdefault(taxon_key, []).append(item_id)
 
-    # 4. 仿生内衣 (Hark-内衣)
-    intimate_root = source_root / "Hark-内衣"
+    # 4. 仿生内衣
+    intimate_root = find_source_dir(source_root, "内衣")
     if intimate_root.exists():
         idx = 1
         for folder in sorted(intimate_root.iterdir()):
@@ -466,8 +482,8 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
                 })
                 taxon_index.setdefault(taxon_key, []).append(item_id)
 
-    # 5. 花卉泳装与外搭 (hark-bikini)
-    resort_root = source_root / "hark-bikini"
+    # 5. 花卉泳装与外搭
+    resort_root = find_source_dir(source_root, "bikini")
     if resort_root.exists():
         for folder in sorted(resort_root.glob("BK*_*")):
             if not folder.is_dir():
@@ -514,7 +530,7 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
         entry["relatedIds"] = siblings
 
     catalog_payload = {
-        "project": "Hark Botanical Biodesign Studio",
+        "project": "Botanical Biodesign Reference Studio",
         "version": "1.0.0",
         "updatedAt": "2026-11-05",
         "license": {
@@ -540,7 +556,7 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Build Hark Botanical Biodesign Studio assets and catalog.json")
+    parser = argparse.ArgumentParser(description="Build Botanical Biodesign Reference Studio assets and catalog.json")
     parser.add_argument("--source-root", type=Path, default=Path("./drive_sources"), help="Path containing the Google Drive folders")
     parser.add_argument("--out-dir", type=Path, default=Path("./public"), help="Output public directory for Vite/GitHub Pages")
     parser.add_argument("--dry-run", action="store_true", help="Only build catalog.json without WebP transcoding")

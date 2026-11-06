@@ -1,4 +1,4 @@
-# Hark Botanical Biodesign Studio — Anti-AI-Training & Anti-Scraping Policy
+# Botanical Biodesign Reference Studio — Anti-AI-Training & Anti-Scraping Policy
 # All visual assets are strictly Non-Commercial and PROHIBITED from AI/ML model training.
 
 User-agent: GPTBot
