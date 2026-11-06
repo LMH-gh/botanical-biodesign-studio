@@ -272,15 +272,15 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
             for img_path in sorted(folder.iterdir()):
                 if not is_valid_image_file(img_path):
                     continue
-                if re.match(r"^L0*\d+_(D[1-6]|sheet)\.(png|jpg)$", img_path.name, re.I):
-                    view_key = "SHEET" if "sheet" in img_path.stem.lower() else img_path.stem.split("_")[-1].upper()
+                if re.match(r"^L0*\d+_D[1-6]\.(png|jpg)$", img_path.name, re.I):
+                    view_key = img_path.stem.split("_")[-1].upper()
                     rel_webp = f"/assets/gown/{item_id}_{view_key}.webp"
                     rel_thumb = f"/assets/gown/thumbs/{item_id}_{view_key}.webp"
                     if not dry_run:
                         transcode_webp_with_protection(
                             img_path,
                             out_dir / rel_webp.lstrip("/"),
-                            out_dir / rel_thumb.lstrip("/") if view_key in ("D1", "SHEET") else None,
+                            out_dir / rel_thumb.lstrip("/") if view_key == "D1" else None,
                         )
                     views.append({"key": view_key, "preview": rel_webp, "thumb": rel_thumb})
                     total_images_count += 1

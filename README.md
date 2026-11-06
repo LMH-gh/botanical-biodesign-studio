@@ -1,8 +1,8 @@
 # Hark Botanical Biodesign Studio · 植物仿生时装设计参考库
 
-**植物形态与服装工程的中英双语参考工作台。当前页面载入 125 个主题、269 个可切换视图；仓库包含 415 个 WebP 文件。**
+**植物形态与服装工程的中英双语参考工作台。当前页面载入 125 个主题、252 个可切换视图；仓库包含 381 个 WebP 文件。**
 
-**A bilingual reference studio for botanical morphology and garment engineering. The current page loads 125 themes and 269 selectable views; the repository contains 415 WebP files.**
+**A bilingual reference studio for botanical morphology and garment engineering. The current page loads 125 themes and 252 selectable views; the repository contains 381 WebP files.**
 
 > **视觉资产严正声明（Non-Commercial & No-AI-Training Notice）**
 >
@@ -16,16 +16,16 @@ The table below reflects the checked-in `public/data/catalog.json`, embedded ent
 
 | 类别 / Category | 主题 / Themes | 可切换视图 / Views |
 | ----- | -----: | -----: |
-| 高定礼服 / Haute Couture | 20 | 122 |
+| 高定礼服 / Haute Couture | 20 | 105 |
 | 日常矩阵 / Casual Matrix | 9 | 45 |
 | 生境成衣 / Habitat Study | 91 | 91 |
 | 结构内衣 / Intimate Structure | 4 | 8 |
 | 度假泳装 / Resortwear | 1 | 3 |
-| **运行时合计 / Runtime total** | **125** | **269** |
+| **运行时合计 / Runtime total** | **125** | **252** |
 
-当前页面共 112 个不同 `taxonKey`。`public/assets/` 含 415 个 WebP 文件，约 11.7 MiB：目录关联 266 张预览图，另有 149 张缩略图。页面内嵌视图使用 data URI，不计入 WebP 文件数。
+当前页面共 112 个不同 `taxonKey`。`public/assets/` 含 381 个 WebP 文件，约 9.7 MiB：目录关联 249 张预览图，另有 132 张缩略图。页面内嵌视图使用 data URI，不计入 WebP 文件数。
 
-The current page contains 112 distinct `taxonKey` values. `public/assets/` contains 415 WebP files (about 11.7 MiB): 266 catalog-linked previews and 149 thumbnails. Embedded views use data URIs and are not included in the WebP file count.
+The current page contains 112 distinct `taxonKey` values. `public/assets/` contains 381 WebP files (about 9.7 MiB): 249 catalog-linked previews and 132 thumbnails. Embedded views use data URIs and are not included in the WebP file count.
 
 ## 功能 | Features
 

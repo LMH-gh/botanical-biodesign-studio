@@ -3,7 +3,7 @@
 Copyright (c) 2026 Hark Botanical Biodesign Studio. All Rights Reserved.
 
 1. **Non-Commercial Use Only (严禁商业用途)**
-   All botanical fashion images, multi-direction matrices (D1–D6), contact sheets,
+   All botanical fashion images, multi-direction matrices (D1–D6),
    ghost-mannequin product shots, and makeup boards in this repository are provided
    solely for personal study, academic research, and non-commercial design reference.
    Commercial production, commercial advertising, e-commerce use, resale, or paid

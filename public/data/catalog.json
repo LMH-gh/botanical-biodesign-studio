@@ -1,7 +1,7 @@
 {
   "project": "Hark Botanical Biodesign Studio",
   "version": "1.0.0",
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "license": {
     "code": "MIT",
     "assets": "Non-Commercial & No-AI-Training (Strict Prohibition on ML/LoRA Training & Scraping)",
@@ -9,7 +9,7 @@
   },
   "counts": {
     "totalThemes": 124,
-    "totalImages": 266,
+    "totalImages": 249,
     "uniqueTaxa": 111
   },
   "items": [
@@ -56,11 +56,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L005_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L005_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L005_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L005_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -108,11 +103,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L009_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L009_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L009_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L009_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -160,11 +150,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L727_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L727_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L727_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L727_SHEET.webp"
         }
       ],
       "relatedIds": [
@@ -214,11 +199,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L731_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L731_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L731_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L731_SHEET.webp"
         }
       ],
       "relatedIds": [
@@ -290,11 +270,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L206_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L206_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L206_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L206_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -364,11 +339,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L218_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L218_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L218_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L218_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -416,11 +386,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L236_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L236_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L236_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L236_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -468,11 +433,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L246_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L246_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L246_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L246_SHEET.webp"
         }
       ],
       "relatedIds": [
@@ -522,11 +482,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L256_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L256_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L256_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L256_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -574,11 +529,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L274_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L274_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L274_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L274_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -626,11 +576,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L302_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L302_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L302_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L302_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -678,11 +623,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L316_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L316_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L316_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L316_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -730,11 +670,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L326_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L326_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L326_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L326_SHEET.webp"
         }
       ],
       "relatedIds": [
@@ -816,11 +751,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L343_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L343_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L343_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L343_SHEET.webp"
         }
       ],
       "relatedIds": [
@@ -874,11 +804,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L350_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L350_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L350_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L350_SHEET.webp"
         }
       ],
       "relatedIds": []
@@ -926,11 +851,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L351_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L351_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L351_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L351_SHEET.webp"
         }
       ],
       "relatedIds": [
@@ -980,11 +900,6 @@
           "key": "D6",
           "preview": "/assets/gown/HC-L363_D6.webp",
           "thumb": "/assets/gown/thumbs/HC-L363_D6.webp"
-        },
-        {
-          "key": "SHEET",
-          "preview": "/assets/gown/HC-L363_SHEET.webp",
-          "thumb": "/assets/gown/thumbs/HC-L363_SHEET.webp"
         }
       ],
       "relatedIds": []
