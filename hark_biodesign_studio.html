@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noai, noimageai" />
-  <title>Hark Botanical Biodesign Studio · 植物仿生时装设计参考库</title>
+  <title>Hark Botanical Biodesign Studio</title>
   <script src="https://cdn.tailwindcss.com/3.4.17"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -63,16 +63,13 @@
   <!-- Top Anti-Commercial & Anti-AI-Training Compliance Banner -->
   <div class="bg-[#18221d] text-[#d8e6df] text-xs px-4 py-2 border-b border-[#2c3e35] flex flex-wrap items-center justify-between gap-2">
     <div class="flex items-center gap-2">
-      <span class="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] font-medium bg-emerald-900/80 text-emerald-200 border border-emerald-700/60 font-mono-code">
-        TDMRep: Reservation=1 · NO-AI-TRAINING
+      <span data-i18n="policyBadge" class="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] font-medium bg-emerald-900/80 text-emerald-200 border border-emerald-700/60 font-mono-code">
       </span>
-      <span id="banner-text">
-        纯植物仿生设计资产库（761 组主题 · 4,569 张纯图片）— 仅供个人与学术参考，<strong>严禁商业使用，严禁用于训练或微调任何 AI 模型</strong>。
-      </span>
+      <span id="banner-text" data-i18n-html="banner"></span>
     </div>
     <div class="flex items-center gap-3">
       <button id="btn-open-license" type="button" class="underline hover:text-white transition cursor-pointer">
-        查看《视觉资产非商用与反训练协议》
+        <span data-i18n="openLicense"></span>
       </button>
       <span class="text-emerald-400/60">|</span>
       <button id="btn-lang-toggle" type="button" class="px-2.5 py-0.5 rounded bg-white/10 hover:bg-white/20 text-white font-medium transition cursor-pointer">
@@ -93,29 +90,26 @@
             <h1 class="font-serif-title text-lg sm:text-xl font-bold tracking-tight text-[#16201a]" id="app-title">
               Hark Botanical Biodesign Studio
             </h1>
-            <span class="text-xs font-mono-code px-2 py-0.5 rounded bg-[#e6f0eb] text-[#1e4633] font-medium">
-              v1.0 · Single-Repo (480 MB)
+            <span id="dataset-label" class="text-xs font-mono-code px-2 py-0.5 rounded bg-[#e6f0eb] text-[#1e4633] font-medium">
             </span>
           </div>
-          <p class="text-xs text-[#5c6660]" id="app-subtitle">
-            从植物器官形态、微观花粉到四维时装工程的中英双语参考工作台
-          </p>
+          <p class="text-xs text-[#5c6660]" id="app-subtitle" data-i18n="subtitle"></p>
         </div>
       </div>
 
       <!-- Primary View Mode Tabs -->
       <nav class="flex items-center gap-1.5 bg-[#f0f4f1] p-1 rounded-xl border border-[#dfe5e0]">
         <button id="tab-gallery" type="button" class="px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition bg-white text-[#16201a] shadow-sm">
-          参考画廊 (Gallery)
+          <span data-i18n="tabGallery"></span>
         </button>
         <button id="tab-taxon-matrix" type="button" class="px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition text-[#4a554e] hover:text-[#16201a]">
-          同源植物跨品类矩阵 (Ginkgo Matrix)
+          <span data-i18n="tabMatrix"></span>
         </button>
         <button id="tab-compare" type="button" class="px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition text-[#4a554e] hover:text-[#16201a]">
-          双列对比台 (<span id="compare-count">2</span>)
+          <span data-i18n="tabCompare"></span> (<span id="compare-count">2</span>)
         </button>
         <button id="tab-directory" type="button" class="px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition text-[#4a554e] hover:text-[#16201a]">
-          761 植物全量目录与脚本
+          <span data-i18n="tabDirectory"></span>
         </button>
       </nav>
     </div>
@@ -129,36 +123,36 @@
       <!-- KPI Summary Bar -->
       <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
         <div class="bg-white rounded-2xl p-3.5 border border-[#dfe5e0] shadow-sm">
-          <div class="text-xs text-[#5c6660]" id="kpi-1-label">收录纯植物/藻类主题</div>
-          <div class="text-xl sm:text-2xl font-bold text-[#16201a] font-mono-code mt-0.5">761 <span class="text-xs font-normal text-[#235c42]">Taxa</span></div>
-          <div class="text-[11px] text-[#5c6660] mt-0.5">已剔除真菌/动物/矿物/器物</div>
+          <div class="text-xs text-[#5c6660]" id="kpi-1-label" data-i18n="kpiThemes"></div>
+          <div class="text-xl sm:text-2xl font-bold text-[#16201a] font-mono-code mt-0.5"><span id="kpi-theme-count">125</span> <span class="text-xs font-normal text-[#235c42]" data-i18n="themeUnit"></span></div>
+          <div class="text-[11px] text-[#5c6660] mt-0.5" data-i18n="kpiThemesNote"></div>
         </div>
         <div class="bg-white rounded-2xl p-3.5 border border-[#dfe5e0] shadow-sm">
-          <div class="text-xs text-[#5c6660]" id="kpi-2-label">精选植物服装图片总数</div>
-          <div class="text-xl sm:text-2xl font-bold text-[#16201a] font-mono-code mt-0.5">4,569 <span class="text-xs font-normal text-[#235c42]">WebP</span></div>
-          <div class="text-[11px] text-[#5c6660] mt-0.5">已过滤 .mp4 视频与 .md 文档</div>
+          <div class="text-xs text-[#5c6660]" id="kpi-2-label" data-i18n="kpiViews"></div>
+          <div class="text-xl sm:text-2xl font-bold text-[#16201a] font-mono-code mt-0.5"><span id="kpi-view-count">267</span> <span class="text-xs font-normal text-[#235c42]" data-i18n="viewUnit"></span></div>
+          <div class="text-[11px] text-[#5c6660] mt-0.5" data-i18n="kpiViewsNote"></div>
         </div>
         <div class="bg-white rounded-2xl p-3.5 border border-[#dfe5e0] shadow-sm">
-          <div class="text-xs text-[#5c6660]" id="kpi-3-label">单仓库 WebP 总体积</div>
-          <div class="text-xl sm:text-2xl font-bold text-[#1e4633] font-mono-code mt-0.5">~480 <span class="text-xs font-normal">MB</span></div>
-          <div class="text-[11px] text-[#5c6660] mt-0.5">完美适配 GitHub Pages 免费限额</div>
+          <div class="text-xs text-[#5c6660]" id="kpi-3-label" data-i18n="kpiFiles"></div>
+          <div class="text-xl sm:text-2xl font-bold text-[#1e4633] font-mono-code mt-0.5">415 <span class="text-xs font-normal">WebP</span></div>
+          <div class="text-[11px] text-[#5c6660] mt-0.5" data-i18n="kpiFilesNote"></div>
         </div>
         <div class="bg-white rounded-2xl p-3.5 border border-[#dfe5e0] shadow-sm">
-          <div class="text-xs text-[#5c6660]" id="kpi-4-label">同物种跨品类联动</div>
-          <div class="text-xl sm:text-2xl font-bold text-[#16201a] font-mono-code mt-0.5">195+ <span class="text-xs font-normal text-[#235c42]">Species</span></div>
-          <div class="text-[11px] text-[#5c6660] mt-0.5">礼服 ↔ 休闲 ↔ 内衣 ↔ 泳装</div>
+          <div class="text-xs text-[#5c6660]" id="kpi-4-label" data-i18n="kpiSize"></div>
+          <div class="text-xl sm:text-2xl font-bold text-[#16201a] font-mono-code mt-0.5">11.7 <span class="text-xs font-normal text-[#235c42]">MiB</span></div>
+          <div class="text-[11px] text-[#5c6660] mt-0.5" data-i18n="kpiSizeNote"></div>
         </div>
       </div>
 
       <!-- Three-Axis Biodesign Filter Panel -->
-      <div class="bg-white rounded-2xl p-4 sm:p-5 border border-[#dfe5e0] shadow-sm space-y-4">
+      <div id="filter-panel" class="bg-white rounded-2xl p-4 sm:p-5 border border-[#dfe5e0] shadow-sm space-y-4">
         <div class="flex flex-wrap items-center justify-between gap-3">
           <!-- Search Input -->
           <div class="relative flex-1 min-w-[240px]">
             <input
               id="search-input"
               type="text"
-              placeholder="搜索植物名称、拉丁学名、仿生结构或编号（如：银杏 / Ginkgo / 鹅掌楸 / 花粉 / L005）..."
+              data-i18n-placeholder="searchPlaceholder"
               class="w-full pl-9 pr-4 py-2 text-sm rounded-xl border border-[#cbd5ce] focus:outline-none focus:border-[#235c42] bg-[#f9fbf9]"
             />
             <svg class="w-4 h-4 text-[#5c6660] absolute left-3 top-2.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -170,59 +164,45 @@
           <div class="flex flex-wrap items-center gap-3 text-xs">
             <label class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-[#f0f4f1] border border-[#dfe5e0] cursor-pointer select-none">
               <input id="toggle-extended" type="checkbox" checked class="accent-[#235c42] rounded cursor-pointer" />
-              <span id="label-extended" class="font-medium text-[#1e2621]">显示扩展分类（内衣与花卉泳装）</span>
+              <span id="label-extended" class="font-medium text-[#1e2621]" data-i18n="extended"></span>
             </label>
             <label class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-[#f0f4f1] border border-[#dfe5e0] cursor-pointer select-none">
               <input id="toggle-mannequin" type="checkbox" class="accent-[#235c42] rounded cursor-pointer" />
-              <span id="label-mannequin" class="font-medium text-[#1e2621]">仅看纯服装人台 (Product View)</span>
+              <span id="label-mannequin" class="font-medium text-[#1e2621]" data-i18n="mannequin"></span>
             </label>
             <button id="btn-filter-saved" type="button" class="px-3 py-1.5 rounded-xl border border-[#dfe5e0] bg-white hover:bg-[#f0f4f1] font-medium transition cursor-pointer">
-              ★ 我的收藏 (<span id="saved-count">0</span>)
+              ★ <span data-i18n="saved"></span> (<span id="saved-count">0</span>)
             </button>
             <button id="btn-reset-filters" type="button" class="px-3 py-1.5 rounded-xl text-[#235c42] hover:bg-[#e6f0eb] font-medium transition cursor-pointer">
-              重置筛选
+              <span data-i18n="resetFilters"></span>
             </button>
           </div>
         </div>
 
         <!-- Axis 1: Garment Engineering Line -->
         <div class="flex flex-wrap items-center gap-1.5 text-xs">
-          <span class="text-[#5c6660] font-medium mr-1" id="axis-garment-label">服装品类轴：</span>
-          <button type="button" data-filter-group="garment" data-filter-val="all" class="filter-pill px-3 py-1 rounded-full bg-[#235c42] text-white font-medium">全部品类 (761)</button>
-          <button type="button" data-filter-group="garment" data-filter-val="gown" class="filter-pill px-3 py-1 rounded-full bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">高定雕塑礼服 (331)</button>
-          <button type="button" data-filter-group="garment" data-filter-val="casual_matrix" class="filter-pill px-3 py-1 rounded-full bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">日常六方向矩阵 (74)</button>
-          <button type="button" data-filter-group="garment" data-filter-val="casual_habitat" class="filter-pill px-3 py-1 rounded-full bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">实景微距成衣 (121)</button>
-          <button type="button" data-filter-group="garment" data-filter-val="intimate" class="filter-pill px-3 py-1 rounded-full bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">植物仿生内衣 (40)</button>
-          <button type="button" data-filter-group="garment" data-filter-val="resort" class="filter-pill px-3 py-1 rounded-full bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">花卉泳装与外搭 (195)</button>
+          <span class="text-[#5c6660] font-medium mr-1" id="axis-garment-label" data-i18n="axisGarment"></span>
+          <div id="garment-filters" class="contents"></div>
         </div>
 
         <!-- Axis 2: Botanical Clade & Morphological Organ -->
         <div class="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-[#eef2ee] text-xs">
           <div class="flex flex-wrap items-center gap-1.5">
-            <span class="text-[#5c6660] font-medium mr-1" id="axis-clade-label">演化门纲轴：</span>
-            <button type="button" data-filter-group="clade" data-filter-val="all" class="filter-pill px-2.5 py-1 rounded-lg bg-[#235c42] text-white font-medium">全部门纲</button>
-            <button type="button" data-filter-group="clade" data-filter-val="angiosperm" class="filter-pill px-2.5 py-1 rounded-lg bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">被子植物 (Angiosperms)</button>
-            <button type="button" data-filter-group="clade" data-filter-val="gymnosperm" class="filter-pill px-2.5 py-1 rounded-lg bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">裸子植物 (银杏/麻黄/苏铁/百岁兰)</button>
-            <button type="button" data-filter-group="clade" data-filter-val="pteridophyte" class="filter-pill px-2.5 py-1 rounded-lg bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">蕨类与苔藓 (满江红/桫椤/鹿角蕨)</button>
+            <span class="text-[#5c6660] font-medium mr-1" id="axis-clade-label" data-i18n="axisClade"></span>
+            <div id="clade-filters" class="contents"></div>
           </div>
           <div class="flex flex-wrap items-center gap-1.5">
-            <span class="text-[#5c6660] font-medium mr-1" id="axis-organ-label">仿生器官轴：</span>
-            <button type="button" data-filter-group="organ" data-filter-val="all" class="filter-pill px-2.5 py-1 rounded-lg bg-[#235c42] text-white font-medium">全部器官</button>
-            <button type="button" data-filter-group="organ" data-filter-val="foliage_venation" class="filter-pill px-2.5 py-1 rounded-lg bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">叶脉分叉与开窗</button>
-            <button type="button" data-filter-group="organ" data-filter-val="floral_corolla" class="filter-pill px-2.5 py-1 rounded-lg bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">花冠与传粉机关</button>
-            <button type="button" data-filter-group="organ" data-filter-val="micro_pollen" class="filter-pill px-2.5 py-1 rounded-lg bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">显微花粉与硅藻</button>
-            <button type="button" data-filter-group="organ" data-filter-val="xerophyte" class="filter-pill px-2.5 py-1 rounded-lg bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4]">荒漠旱生茎刺</button>
+            <span class="text-[#5c6660] font-medium mr-1" id="axis-organ-label" data-i18n="axisOrgan"></span>
+            <div id="organ-filters" class="contents"></div>
           </div>
         </div>
       </div>
 
       <!-- Active Result Count & Hint -->
       <div class="flex items-center justify-between text-xs text-[#5c6660] px-1">
-        <div>
-          当前展示你的 Google Drive 实拍提取样本：<strong id="visible-count" class="text-[#16201a] font-mono-code">12</strong> 组代表性植物主题（共含 <strong>28</strong> 张可交互多视角/D1–D6 实图）
-        </div>
+        <div id="result-summary" class="flex items-center gap-1"></div>
         <div class="hidden sm:block">
-          提示：点击卡片下方的 <span class="font-mono-code bg-white px-1.5 py-0.5 rounded border">D1–D6 / SHEET / PRODUCT</span> 按钮可独立切换单张卡片视角
+          <span data-i18n="viewHint"></span>
         </div>
       </div>
 
@@ -236,17 +216,17 @@
         <div class="flex flex-wrap items-start justify-between gap-4">
           <div>
             <span class="text-xs font-mono-code uppercase tracking-wider px-2.5 py-1 rounded-md bg-[#e6f0eb] text-[#1e4633] font-semibold">
-              Cross-Category Taxon Mapping · 同源植物四维服装转译矩阵
+              <span data-i18n="matrixEyebrow"></span>
             </span>
             <h2 class="font-serif-title text-xl sm:text-2xl font-bold text-[#16201a] mt-2">
-              以「银杏 (Ginkgo biloba)」为例：一株活化石植物的四维服装工程解构
+              <span data-i18n="matrixTitle"></span>
             </h2>
             <p class="text-sm text-[#5c6660] mt-1 max-w-3xl">
-              通过 <code class="font-mono-code bg-[#f0f4f1] px-1.5 py-0.5 rounded">taxonKey: "ginkgo"</code> 自动串联你在 4 个不同 Google Drive 文件夹中的银杏资产，直观呈现同一生物形态特征（扇形叶、中央二裂缺刻、平行二叉叶脉）如何跨品类转译：
+              <span data-i18n="matrixDescription"></span>
             </p>
           </div>
           <button id="btn-back-gallery-from-taxon" type="button" class="px-3.5 py-2 rounded-xl border border-[#cbd5ce] text-xs font-medium hover:bg-[#f0f4f1] cursor-pointer">
-            ← 返回全库画廊
+            <span data-i18n="backGallery"></span>
           </button>
         </div>
 
@@ -260,34 +240,34 @@
         <div class="flex flex-wrap items-center justify-between gap-3">
           <div>
             <h2 class="font-serif-title text-xl font-bold text-[#16201a]">
-              双列对比工作台 · Side-by-Side Morphological Comparison
+              <span data-i18n="compareTitle"></span>
             </h2>
             <p class="text-xs text-[#5c6660] mt-0.5">
-              在任意卡片上点击「加入对比」即可在此并排检视两套植物仿生服装的器官锚点与剪裁转译细节。
+              <span data-i18n="compareDescription"></span>
             </p>
           </div>
           <button id="btn-clear-compare" type="button" class="px-3 py-1.5 rounded-xl border border-[#cbd5ce] text-xs hover:bg-[#f0f4f1] cursor-pointer">
-            重置为默认对比组
+            <span data-i18n="clearCompare"></span>
           </button>
         </div>
         <div id="compare-grid" class="grid grid-cols-1 md:grid-cols-2 gap-6 pt-2"></div>
       </div>
     </section>
 
-    <!-- VIEW 4: FULL 761-THEME DIRECTORY & GITHUB SCRIPTS -->
+    <!-- VIEW 4: CURRENT CATALOG DIRECTORY -->
     <section id="view-directory" class="hidden space-y-6">
       <div class="bg-white rounded-2xl p-6 border border-[#dfe5e0] shadow-sm space-y-5">
         <div class="flex flex-wrap items-center justify-between gap-3">
           <div>
             <h2 class="font-serif-title text-xl font-bold text-[#16201a]">
-              761 组纯植物主题全量白名单目录（已剔除真菌/动物/矿物/器物）
+              <span data-i18n="directoryTitle"></span>
             </h2>
             <p class="text-xs text-[#5c6660] mt-0.5">
-              以下为从你的 6 个 Google Drive 文件夹中精确筛出的 12 个纯植物子模块（共 761 组主题、4,569 张图，WebP 体积约 480 MB）：
+              <span data-i18n="directoryDescription"></span>
             </p>
           </div>
           <button id="btn-copy-robots" type="button" class="px-3.5 py-2 rounded-xl bg-[#235c42] text-white text-xs font-medium hover:bg-[#1b4933] transition cursor-pointer">
-            复制防 AI 训练 robots.txt 与 _headers
+            <span data-i18n="copyPolicy"></span>
           </button>
         </div>
 
@@ -295,12 +275,11 @@
           <table class="w-full text-left border-collapse text-xs">
             <thead>
               <tr class="bg-[#f0f4f1] text-[#1e2621] border-b border-[#dfe5e0]">
-                <th class="py-3 px-3.5 font-semibold">Biodesign 模块名称</th>
-                <th class="py-3 px-3.5 font-semibold font-mono-code">全局唯一编号范围</th>
-                <th class="py-3 px-3.5 font-semibold text-right">保留主题数</th>
-                <th class="py-3 px-3.5 font-semibold text-right">纯图片数</th>
-                <th class="py-3 px-3.5 font-semibold">植物学门纲与器官特征</th>
-                <th class="py-3 px-3.5 font-semibold">代表性植物物种与清洗说明</th>
+                <th class="py-3 px-3.5 font-semibold" data-i18n="thCategory"></th>
+                <th class="py-3 px-3.5 font-semibold text-right" data-i18n="thThemes"></th>
+                <th class="py-3 px-3.5 font-semibold text-right" data-i18n="thViews"></th>
+                <th class="py-3 px-3.5 font-semibold" data-i18n="thClades"></th>
+                <th class="py-3 px-3.5 font-semibold" data-i18n="thExamples"></th>
               </tr>
             </thead>
             <tbody id="directory-table-body" class="divide-y divide-[#eef2ee]"></tbody>
@@ -316,7 +295,7 @@
     <div class="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto shadow-2xl border border-[#dfe5e0] flex flex-col md:flex-row">
       <div class="md:w-1/2 bg-[#141a17] relative flex flex-col items-center justify-center p-4">
         <div class="relative w-full flex items-center justify-center">
-          <img id="modal-img" src="" alt="Botanical Garment Preview" class="max-h-[68vh] w-auto rounded-lg object-contain" />
+          <img id="modal-img" src="" alt="" class="max-h-[68vh] w-auto rounded-lg object-contain" />
           <div class="watermark-overlay absolute inset-0 rounded-lg"></div>
         </div>
         <div id="modal-view-strip" class="flex flex-wrap items-center justify-center gap-1.5 mt-3"></div>
@@ -331,27 +310,27 @@
           <p id="modal-latin" class="text-xs italic text-[#5c6660] font-mono-code"></p>
 
           <div class="bg-[#f7faf8] p-3.5 rounded-xl border border-[#dfe5e0] space-y-1.5">
-            <div class="text-xs font-semibold text-[#1e4633]">植物形态学视觉锚点 (Botanical Identity Anchor)</div>
+            <div class="text-xs font-semibold text-[#1e4633]" data-i18n="modalAnchorLabel"></div>
             <p id="modal-anchor" class="text-xs text-[#37423b] leading-relaxed"></p>
           </div>
 
           <div class="bg-[#f7faf8] p-3.5 rounded-xl border border-[#dfe5e0] space-y-1.5">
-            <div class="text-xs font-semibold text-[#1e4633]">服装工程转译方案 (Garment Engineering Translation)</div>
+            <div class="text-xs font-semibold text-[#1e4633]" data-i18n="modalTranslationLabel"></div>
             <p id="modal-translation" class="text-xs text-[#37423b] leading-relaxed"></p>
           </div>
         </div>
 
         <div class="space-y-3 pt-3 border-t border-[#eef2ee]">
           <div class="p-3 rounded-xl bg-amber-50/90 border border-amber-200 text-[11px] text-amber-900 leading-relaxed">
-            <strong>非商用与严禁 AI 训练声明 (License Restriction)：</strong><br/>
-            本图像受专有视觉资产协议保护，<strong>严禁任何商业用途，严禁用于训练、微调 (LoRA/DreamBooth) 任何 AI 模型或构建数据集</strong>。
+            <strong data-i18n="licenseRestriction"></strong><br/>
+            <strong data-i18n="licenseRestrictionDetail"></strong>
           </div>
           <div class="flex items-center gap-2">
             <button id="modal-btn-copy-json" type="button" class="flex-1 py-2 px-3 rounded-xl bg-[#235c42] text-white text-xs font-medium hover:bg-[#1b4933] transition cursor-pointer">
-              复制该条目 catalog.json 元数据
+              <span data-i18n="copyMetadata"></span>
             </button>
             <button id="modal-btn-add-compare" type="button" class="py-2 px-3 rounded-xl border border-[#cbd5ce] text-xs font-medium hover:bg-[#f0f4f1] transition cursor-pointer">
-              加入双列对比
+              <span data-i18n="addCompare"></span>
             </button>
           </div>
         </div>
@@ -364,19 +343,14 @@
     <div class="bg-white rounded-2xl max-w-2xl w-full p-6 space-y-4 shadow-2xl border border-[#dfe5e0]">
       <div class="flex items-center justify-between border-b border-[#dfe5e0] pb-3">
         <h3 class="font-serif-title text-lg font-bold text-[#16201a]">
-          Hark Botanical Biodesign 视觉资产许可协议 (LICENSE-ASSETS.md)
+          <span data-i18n="licenseTitle"></span>
         </h3>
         <button id="btn-close-license" type="button" class="w-8 h-8 rounded-full bg-[#f0f4f1] hover:bg-[#e2ebe4] flex items-center justify-center text-sm font-bold cursor-pointer">✕</button>
       </div>
-      <div class="space-y-3 text-xs text-[#37423b] leading-relaxed max-h-[65vh] overflow-y-auto pr-1 custom-scrollbar">
-        <p><strong>1. 代码与视觉图像分离授权（Dual Licensing）：</strong>本仓库的前端界面与构建脚本代码采用 MIT 许可证开源；但仓库中的所有植物仿生服装图像（含预览图、缩略图、六宫格拼图、无头透明人台图及妆发设定板）<strong>不适用 MIT 许可</strong>，受以下专有条款约束。</p>
-        <p><strong>2. 严禁任何商业用途（Strict Non-Commercial Use）：</strong>所有图像仅供个人学习、生物设计（Biodesign）课堂教学与非商业学术研究参考。未经著作权人书面授权，严禁将图像用于服装商业打样生产、电商陈列、商业广告、付费图包转售或商业衍生品开发。</p>
-        <p><strong>3. 严禁用于 AI 模型训练与数据集抓取（No AI/ML Training or Dataset Scraping）：</strong>严禁将本项目的任何图像（包括原图、降采样 WebP、局部裁切图或衍生图）用于训练、微调（LoRA、DreamBooth、ControlNet 等）、蒸馏或评估任何人工智能与机器学习模型；严禁将其纳入任何公开或私有数据集。</p>
-        <p><strong>4. W3C TDMRep 与防爬虫技术措施：</strong>全站已配置 <code class="font-mono-code bg-[#f0f4f1] px-1 rounded">X-Robots-Tag: noai, noimageai</code> 响应头，并在每张 WebP 的 EXIF/XMP 元数据中注入 <code class="font-mono-code bg-[#f0f4f1] px-1 rounded">TDMRep: Reservation=1</code> 标记。</p>
-      </div>
+      <div id="license-copy" class="space-y-3 text-xs text-[#37423b] leading-relaxed max-h-[65vh] overflow-y-auto pr-1 custom-scrollbar" data-i18n-html="licenseBody"></div>
       <div class="flex justify-end pt-2">
         <button id="btn-ack-license" type="button" class="px-4 py-2 rounded-xl bg-[#235c42] text-white text-xs font-medium hover:bg-[#1b4933] cursor-pointer">
-          我已知悉并遵守协议
+          <span data-i18n="licenseAcknowledge"></span>
         </button>
       </div>
     </div>
@@ -404,6 +378,296 @@
       compareIds: ['HC-L005', 'BC-M001'],
       modalItemId: null
     };
+
+    const UI_TEXT = {
+      zh: {
+        pageTitle: 'Hark Botanical Biodesign Studio · 植物仿生时装参考库',
+        banner: '当前目录：{themes} 个主题 · {views} 个可切换视图。<strong>仅限非商业学习与研究，禁止用于 AI 模型训练。</strong>',
+        policyBadge: 'TDMRep: Reservation=1 · 禁止 AI 训练',
+        openLicense: '查看视觉资产许可',
+        subtitle: '植物形态与服装工程的双语参考工作台',
+        dataset: '当前快照 · {themes} 个主题',
+        switchLanguage: 'English',
+        tabGallery: '参考画廊',
+        tabMatrix: '同源植物矩阵',
+        tabCompare: '双列对比',
+        tabDirectory: '当前目录',
+        kpiThemes: '当前主题数',
+        themeUnit: '主题',
+        kpiThemesNote: '含 1 个内嵌备用条目',
+        kpiViews: '可切换视图',
+        viewUnit: '视图',
+        kpiViewsNote: '目录视图与内嵌视图合计',
+        kpiFiles: 'WebP 文件',
+        kpiFilesNote: '包含 266 张预览图与 149 张缩略图',
+        kpiSize: '视觉资产体积',
+        kpiSizeNote: '仅统计 public/assets',
+        searchPlaceholder: '搜索植物名、拉丁名、结构或编号（如：银杏 / Ginkgo / L005）',
+        extended: '显示扩展类别（内衣与度假泳装）',
+        mannequin: '仅看人台产品视图',
+        saved: '收藏',
+        resetFilters: '重置筛选',
+        axisGarment: '服装类别：',
+        axisClade: '植物类群：',
+        axisOrgan: '形态结构：',
+        allCategories: '全部类别',
+        categoryGown: '高定礼服',
+        categoryCasual: '日常矩阵',
+        categoryHabitat: '生境成衣',
+        categoryIntimate: '结构内衣',
+        categoryResort: '度假泳装',
+        allClades: '全部类群',
+        cladeAngiosperm: '被子植物',
+        cladeGymnosperm: '裸子植物',
+        cladePteridophyte: '蕨类与石松',
+        cladeBryophyte: '苔藓植物',
+        cladeAlgae: '藻类',
+        allOrgans: '全部结构',
+        organFloral: '花冠与传粉结构',
+        organFoliage: '叶脉与叶片结构',
+        organMicro: '花粉与硅藻',
+        organCarnivorous: '食虫结构',
+        organSeed: '种子传播结构',
+        resultSummary: '当前显示 <strong>{visible}</strong> / {total} 个主题 · {views} 个可切换视图',
+        viewHint: '点击卡片上的视图编号切换预览',
+        noMatches: '没有符合条件的主题。请调整筛选或重置条件。',
+        matrixEyebrow: '同源植物 · 跨类别对照',
+        matrixTitle: '银杏形态在不同服装类别中的转译',
+        matrixDescription: '对照目录中 taxonKey 相同的银杏条目，查看同一植物形态在不同类别中的设计表达。',
+        backGallery: '返回画廊',
+        noTaxonMatches: '当前目录没有可显示的银杏条目。',
+        viewAll: '查看全部视图',
+        compareTitle: '双列形态对比工作台',
+        compareDescription: '在卡片中将条目加入对比，即可并排查看植物形态锚点与服装转译。',
+        clearCompare: '恢复默认对比',
+        directoryTitle: '当前已收录目录',
+        directoryDescription: '以下分类与数量根据当前页面实际载入的数据生成。',
+        copyPolicy: '复制爬虫政策示例',
+        thCategory: '类别',
+        thThemes: '主题数',
+        thViews: '视图数',
+        thClades: '植物类群',
+        thExamples: '条目示例',
+        modalAnchorLabel: '植物形态锚点',
+        modalTranslationLabel: '服装转译说明',
+        licenseRestriction: '视觉资产许可限制：',
+        licenseRestrictionDetail: '仅限非商业学习与研究，禁止用于 AI 模型训练或数据集。',
+        copyMetadata: '复制目录元数据',
+        addCompare: '加入对比',
+        viewDetails: '查看转译详情',
+        addToCompare: '加入对比',
+        assetBadge: '非商用 · 禁止 AI 训练',
+        licenseTitle: 'Hark Botanical Biodesign 视觉资产许可',
+        licenseBody: '<p><strong>1. 代码与图像分开授权：</strong>界面与构建脚本按 MIT License 发布；视觉图像不适用 MIT，受本许可条款约束。</p><p><strong>2. 非商业用途：</strong>图像仅供个人学习、教学与非商业研究。未经书面授权，不得用于商业生产、广告、电商或转售。</p><p><strong>3. 禁止 AI 训练与数据集使用：</strong>不得将图像用于训练、微调、蒸馏、评估 AI/ML 模型，或纳入数据集。</p><p><strong>4. 技术措施说明：</strong><code>robots.txt</code> 表达爬虫访问请求。GitHub Pages 不会把 <code>_headers</code> 文件用作 HTTP 响应头配置，因此不能据此保证 <code>X-Robots-Tag</code> 已生效。</p>',
+        licenseAcknowledge: '我已阅读并理解',
+        compareAnchor: '植物形态锚点：',
+        compareTranslation: '服装转译：',
+        categoryCount: '{count} 个主题',
+        viewCount: '{count} 个视图',
+        toastCopied: '已复制目录元数据。',
+        toastAddedCompare: '已加入对比。',
+        toastResetCompare: '已恢复默认对比组。',
+        toastRemovedSaved: '已取消收藏。',
+        toastAddedSaved: '已加入收藏。',
+        toastAddedCompareHint: '已加入双列对比。',
+        toastPolicyCopied: '已复制爬虫政策示例。',
+        toastCopyright: '视觉资产仅限非商业用途，禁止用于 AI 训练。',
+        switchLanguageHint: '中文'
+      },
+      en: {
+        pageTitle: 'Hark Botanical Biodesign Studio · Botanical Fashion Reference',
+        banner: 'Current catalog: {themes} themes · {views} selectable views. <strong>For non-commercial study and research only. AI model training is prohibited.</strong>',
+        policyBadge: 'TDMRep: Reservation=1 · NO AI TRAINING',
+        openLicense: 'View visual asset license',
+        subtitle: 'A bilingual reference studio for botanical form and garment engineering',
+        dataset: 'Current snapshot · {themes} themes',
+        switchLanguage: '中文',
+        tabGallery: 'Gallery',
+        tabMatrix: 'Taxon Matrix',
+        tabCompare: 'Compare',
+        tabDirectory: 'Current Catalog',
+        kpiThemes: 'Current themes',
+        themeUnit: 'themes',
+        kpiThemesNote: 'Includes one embedded fallback entry',
+        kpiViews: 'Selectable views',
+        viewUnit: 'views',
+        kpiViewsNote: 'Catalog views plus the embedded view',
+        kpiFiles: 'WebP files',
+        kpiFilesNote: '266 previews and 149 thumbnails',
+        kpiSize: 'Visual asset size',
+        kpiSizeNote: 'public/assets only',
+        searchPlaceholder: 'Search plant names, Latin names, structures, or IDs (e.g. Ginkgo / L005)',
+        extended: 'Show extended categories (intimate and resortwear)',
+        mannequin: 'Product mannequin views only',
+        saved: 'Saved',
+        resetFilters: 'Reset filters',
+        axisGarment: 'Garment category:',
+        axisClade: 'Botanical clade:',
+        axisOrgan: 'Morphology:',
+        allCategories: 'All categories',
+        categoryGown: 'Haute couture',
+        categoryCasual: 'Casual matrix',
+        categoryHabitat: 'Habitat study',
+        categoryIntimate: 'Intimate structure',
+        categoryResort: 'Resortwear',
+        allClades: 'All clades',
+        cladeAngiosperm: 'Angiosperms',
+        cladeGymnosperm: 'Gymnosperms',
+        cladePteridophyte: 'Ferns and lycophytes',
+        cladeBryophyte: 'Bryophytes',
+        cladeAlgae: 'Algae',
+        allOrgans: 'All structures',
+        organFloral: 'Corolla and pollination',
+        organFoliage: 'Leaf and venation',
+        organMicro: 'Pollen and diatoms',
+        organCarnivorous: 'Carnivorous structures',
+        organSeed: 'Seed dispersal',
+        resultSummary: 'Showing <strong>{visible}</strong> of {total} themes · {views} selectable views',
+        viewHint: 'Select a view code on a card to switch its preview',
+        noMatches: 'No entries match these filters. Adjust or reset the filters.',
+        matrixEyebrow: 'Shared taxon · Cross-category comparison',
+        matrixTitle: 'Translating ginkgo morphology across garment categories',
+        matrixDescription: 'Compare ginkgo entries sharing the same taxonKey to see how one plant form is expressed across categories.',
+        backGallery: 'Back to gallery',
+        noTaxonMatches: 'No ginkgo entries are available in the current catalog.',
+        viewAll: 'View all views',
+        compareTitle: 'Side-by-side morphology workbench',
+        compareDescription: 'Add entries from the cards to compare botanical anchors and garment translations side by side.',
+        clearCompare: 'Restore default pair',
+        directoryTitle: 'Current catalog',
+        directoryDescription: 'Categories and counts below are generated from the data currently loaded by the page.',
+        copyPolicy: 'Copy crawler policy sample',
+        thCategory: 'Category',
+        thThemes: 'Themes',
+        thViews: 'Views',
+        thClades: 'Botanical clades',
+        thExamples: 'Example entries',
+        modalAnchorLabel: 'Botanical morphology anchor',
+        modalTranslationLabel: 'Garment translation',
+        licenseRestriction: 'Visual asset license:',
+        licenseRestrictionDetail: 'Non-commercial study and research only. AI model training and dataset use are prohibited.',
+        copyMetadata: 'Copy catalog metadata',
+        addCompare: 'Add to compare',
+        viewDetails: 'View design details',
+        addToCompare: 'Add to compare',
+        assetBadge: 'Non-commercial · No AI training',
+        licenseTitle: 'Hark Botanical Biodesign Visual Asset License',
+        licenseBody: '<p><strong>1. Separate code and image licenses:</strong> The interface and build script are released under the MIT License. Visual images are excluded from MIT and governed by these terms.</p><p><strong>2. Non-commercial use:</strong> Images are for personal study, teaching, and non-commercial research only. Written permission is required for commercial production, advertising, e-commerce, or resale.</p><p><strong>3. No AI training or dataset use:</strong> Do not use the images to train, fine-tune, distill, or evaluate AI/ML models, or include them in datasets.</p><p><strong>4. Technical measures:</strong> <code>robots.txt</code> states crawler preferences. GitHub Pages does not interpret <code>_headers</code> as HTTP response-header configuration, so this file alone does not guarantee that <code>X-Robots-Tag</code> is served.</p>',
+        licenseAcknowledge: 'I have read and understood',
+        compareAnchor: 'Botanical anchor:',
+        compareTranslation: 'Garment translation:',
+        categoryCount: '{count} themes',
+        viewCount: '{count} views',
+        toastCopied: 'Catalog metadata copied.',
+        toastAddedCompare: 'Added to comparison.',
+        toastResetCompare: 'Restored the default comparison pair.',
+        toastRemovedSaved: 'Removed from saved items.',
+        toastAddedSaved: 'Added to saved items.',
+        toastAddedCompareHint: 'Added to side-by-side comparison.',
+        toastPolicyCopied: 'Crawler policy sample copied.',
+        toastCopyright: 'Visual assets are non-commercial only and may not be used for AI training.',
+        switchLanguageHint: 'English'
+      }
+    };
+
+    const CATEGORY_KEYS = {
+      gown: 'categoryGown',
+      casual_matrix: 'categoryCasual',
+      casual_habitat: 'categoryHabitat',
+      intimate: 'categoryIntimate',
+      resort: 'categoryResort'
+    };
+
+    const CLADE_KEYS = {
+      angiosperm: 'cladeAngiosperm',
+      gymnosperm: 'cladeGymnosperm',
+      pteridophyte: 'cladePteridophyte',
+      bryophyte: 'cladeBryophyte',
+      algae: 'cladeAlgae'
+    };
+
+    const ORGAN_KEYS = {
+      floral_corolla: 'organFloral',
+      foliage_venation: 'organFoliage',
+      micro_pollen: 'organMicro',
+      carnivorous: 'organCarnivorous',
+      seed_dispersal: 'organSeed'
+    };
+
+    function t(key) {
+      return UI_TEXT[state.lang][key] || key;
+    }
+
+    function localizedName(item) {
+      if (state.lang === 'zh') return item.nameZh;
+      const name = item.nameEn || item.code;
+      if (!/[\u4e00-\u9fff]/.test(name)) return name;
+      return `${item.code} · ${t(CATEGORY_KEYS[item.garmentLine] || 'tabGallery')}`;
+    }
+
+    function replaceTokens(text, values) {
+      return text.replace(/\{(\w+)\}/g, (_, key) => String(values[key] ?? ''));
+    }
+
+    function renderFilterButtons() {
+      const makeButton = (group, value, labelKey, count, compact = false) => `
+        <button type="button" data-filter-group="${group}" data-filter-val="${value}" class="filter-pill ${compact ? 'px-2.5 py-1 rounded-lg' : 'px-3 py-1 rounded-full'} bg-[#f0f4f1] text-[#37423b] hover:bg-[#e2ebe4] font-medium">
+          ${t(labelKey)} <span class="font-mono-code">(${count})</span>
+        </button>`;
+      const countBy = (field, value) => CATALOG.filter(item => item[field] === value).length;
+
+      document.getElementById('garment-filters').innerHTML = [
+        makeButton('garment', 'all', 'allCategories', CATALOG.length),
+        ...Object.entries(CATEGORY_KEYS).map(([value, key]) => makeButton('garment', value, key, countBy('garmentLine', value)))
+      ].join('');
+      document.getElementById('clade-filters').innerHTML = [
+        makeButton('clade', 'all', 'allClades', CATALOG.length, true),
+        ...Object.entries(CLADE_KEYS).filter(([value]) => countBy('clade', value) > 0).map(([value, key]) => makeButton('clade', value, key, countBy('clade', value), true))
+      ].join('');
+      document.getElementById('organ-filters').innerHTML = [
+        makeButton('organ', 'all', 'allOrgans', CATALOG.length, true),
+        ...Object.entries(ORGAN_KEYS).filter(([value]) => countBy('organ', value) > 0).map(([value, key]) => makeButton('organ', value, key, countBy('organ', value), true))
+      ].join('');
+      updateFilterPillsUI();
+    }
+
+    function updateSummary() {
+      const totalViews = CATALOG.reduce((sum, item) => sum + item.views.length, 0);
+      const totalTaxa = new Set(CATALOG.map(item => item.taxonKey)).size;
+      const values = { themes: CATALOG.length, views: totalViews };
+      document.getElementById('kpi-theme-count').textContent = String(CATALOG.length);
+      document.getElementById('kpi-view-count').textContent = String(totalViews);
+      document.getElementById('banner-text').innerHTML = replaceTokens(t('banner'), values);
+      document.getElementById('dataset-label').textContent = replaceTokens(t('dataset'), values);
+      const visible = getFilteredItems().length;
+      document.getElementById('result-summary').innerHTML = replaceTokens(t('resultSummary'), {
+        visible,
+        total: CATALOG.length,
+        views: totalViews
+      });
+    }
+
+    function applyLanguage() {
+      document.documentElement.lang = state.lang === 'zh' ? 'zh-CN' : 'en';
+      document.title = t('pageTitle');
+      document.querySelectorAll('[data-i18n]').forEach(element => {
+        element.textContent = t(element.dataset.i18n);
+      });
+      document.querySelectorAll('[data-i18n-html]').forEach(element => {
+        element.innerHTML = t(element.dataset.i18nHtml);
+      });
+      document.querySelectorAll('[data-i18n-placeholder]').forEach(element => {
+        element.placeholder = t(element.dataset.i18nPlaceholder);
+      });
+      document.getElementById('btn-lang-toggle').textContent = t('switchLanguage');
+      renderFilterButtons();
+      updateSummary();
+      renderCards();
+      if (state.activeTab === 'taxon-matrix') renderGinkgoMatrix();
+      if (state.activeTab === 'compare') renderCompareView();
+      if (state.activeTab === 'directory') renderDirectoryTable();
+      if (state.modalItemId) openDetailModal(state.modalItemId);
+    }
 
     // Initialize default active view per card
     CATALOG.forEach(item => {
@@ -455,12 +719,12 @@
     function renderCards() {
       const grid = document.getElementById('cards-grid');
       const items = getFilteredItems();
-      document.getElementById('visible-count').textContent = String(items.length);
       document.getElementById('saved-count').textContent = String(state.savedIds.size);
       document.getElementById('compare-count').textContent = String(state.compareIds.length);
+      updateSummary();
 
       if (items.length === 0) {
-        grid.innerHTML = '<div class="col-span-full bg-white rounded-2xl p-10 text-center border border-[#dfe5e0] text-sm text-[#5c6660]">没有匹配当前筛选条件的植物主题，请点击右上角「重置筛选」或开启「显示扩展分类」。</div>';
+        grid.innerHTML = `<div class="col-span-full bg-white rounded-2xl p-10 text-center border border-[#dfe5e0] text-sm text-[#5c6660]">${t('noMatches')}</div>`;
         return;
       }
 
@@ -468,7 +732,7 @@
         const activeKey = state.selectedViewByCard[item.id] || item.views[0].key;
         const activeView = item.views.find(v => v.key === activeKey) || item.views[0];
         const isSaved = state.savedIds.has(item.id);
-        const title = state.lang === 'zh' ? item.nameZh : item.nameEn;
+        const title = localizedName(item);
         const anchor = state.lang === 'zh' ? item.bioAnchorZh : item.bioAnchorEn;
 
         const viewButtons = item.views.map(v => {
@@ -491,7 +755,7 @@
                 ${isSaved ? '★' : '☆'}
               </button>
               <div class="absolute bottom-2 right-2 px-2 py-0.5 rounded bg-black/65 text-[10px] text-white/90 font-mono-code">
-                Non-Commercial · No AI
+                ${t('assetBadge')}
               </div>
             </div>
 
@@ -509,10 +773,10 @@
 
               <div class="pt-2 border-t border-[#eef2ee] flex items-center justify-between gap-2 text-xs">
                 <button type="button" data-action="open-modal" data-id="${item.id}" class="text-[#235c42] font-medium hover:underline cursor-pointer">
-                  查看转译详情
+                  ${t('viewDetails')}
                 </button>
                 <button type="button" data-action="add-compare" data-id="${item.id}" class="px-2.5 py-1 rounded-lg bg-[#f0f4f1] hover:bg-[#e2ebe4] text-[#1e2621] text-[11px] font-medium cursor-pointer">
-                  + 加入对比
+                  + ${t('addToCompare')}
                 </button>
               </div>
             </div>
@@ -524,22 +788,29 @@
     function renderGinkgoMatrix() {
       const container = document.getElementById('ginkgo-matrix-grid');
       const ginkgoItems = CATALOG.filter(i => i.taxonKey === 'ginkgo');
+      if (ginkgoItems.length === 0) {
+        container.innerHTML = `<p class="col-span-full text-sm text-[#5c6660]">${t('noTaxonMatches')}</p>`;
+        return;
+      }
       container.innerHTML = ginkgoItems.map(item => {
         const view = item.views[0];
+        const title = localizedName(item);
+        const description = state.lang === 'zh' ? item.translationZh : item.translationEn;
+        const categoryKey = CATEGORY_KEYS[item.garmentLine];
         return `
           <div class="bg-[#f9fbf9] rounded-2xl border border-[#dfe5e0] overflow-hidden flex flex-col">
             <div class="relative aspect-[9/14] bg-[#141a17] cursor-pointer" data-action="open-modal" data-id="${item.id}">
-              <img src="${view.src}" alt="${item.nameZh}" class="w-full h-full object-cover object-top" />
+              <img src="${view.src}" alt="${title}" class="w-full h-full object-cover object-top" />
               <span class="absolute top-2.5 left-2.5 px-2 py-0.5 rounded bg-black/75 text-white font-mono-code text-xs">${item.code}</span>
             </div>
             <div class="p-4 space-y-2 flex-1 flex flex-col justify-between">
               <div>
-                <div class="text-[11px] font-semibold text-[#235c42]">${item.seriesZh}</div>
-                <h4 class="font-serif-title font-bold text-sm text-[#16201a] mt-0.5">${item.nameZh}</h4>
-                <p class="text-xs text-[#4a554e] mt-1.5 leading-relaxed">${item.translationZh}</p>
+                <div class="text-[11px] font-semibold text-[#235c42]">${t(categoryKey || 'tabGallery')}</div>
+                <h4 class="font-serif-title font-bold text-sm text-[#16201a] mt-0.5">${title}</h4>
+                <p class="text-xs text-[#4a554e] mt-1.5 leading-relaxed">${description || ''}</p>
               </div>
               <button type="button" data-action="open-modal" data-id="${item.id}" class="w-full py-1.5 rounded-lg bg-white border border-[#cbd5ce] text-xs font-medium hover:bg-[#e6f0eb] cursor-pointer">
-                检视全部视角 (${item.views.length} 张)
+                ${t('viewAll')} (${item.views.length})
               </button>
             </div>
           </div>
@@ -550,30 +821,37 @@
     function renderCompareView() {
       const container = document.getElementById('compare-grid');
       const pair = state.compareIds.map(id => CATALOG.find(i => i.id === id)).filter(Boolean);
+      if (pair.length === 0) {
+        container.innerHTML = `<p class="text-sm text-[#5c6660]">${t('noMatches')}</p>`;
+        return;
+      }
       container.innerHTML = pair.map(item => {
         const activeKey = state.selectedViewByCard[item.id] || item.views[0].key;
         const activeView = item.views.find(v => v.key === activeKey) || item.views[0];
+        const title = localizedName(item);
+        const anchor = state.lang === 'zh' ? item.bioAnchorZh : item.bioAnchorEn;
+        const translation = state.lang === 'zh' ? item.translationZh : item.translationEn;
         const pills = item.views.map(v => `
           <button type="button" data-action="switch-view" data-id="${item.id}" data-view="${v.key}" class="px-2.5 py-1 rounded text-xs font-mono-code border cursor-pointer ${v.key === activeView.key ? 'bg-[#235c42] text-white border-[#235c42]' : 'bg-white text-[#37423b] border-[#cbd5ce]'}">${v.key}</button>
         `).join('');
         return `
           <div class="bg-[#f9fbf9] rounded-2xl border border-[#dfe5e0] p-4 flex flex-col sm:flex-row gap-4">
             <div class="sm:w-1/2 relative bg-[#141a17] rounded-xl overflow-hidden">
-              <img src="${activeView.src}" alt="${item.nameZh}" class="w-full h-auto object-contain" />
+              <img src="${activeView.src}" alt="${title}" class="w-full h-auto object-contain" />
             </div>
             <div class="sm:w-1/2 flex flex-col justify-between space-y-3">
               <div class="space-y-2">
                 <span class="font-mono-code text-xs px-2 py-0.5 rounded bg-[#e6f0eb] text-[#1e4633] font-semibold">${item.code}</span>
-                <h3 class="font-serif-title font-bold text-base text-[#16201a]">${item.nameZh}</h3>
+                <h3 class="font-serif-title font-bold text-base text-[#16201a]">${title}</h3>
                 <p class="text-xs italic text-[#5c6660] font-mono-code">${item.latin}</p>
                 <div class="flex flex-wrap gap-1 pt-1">${pills}</div>
                 <div class="p-3 rounded-xl bg-white border border-[#dfe5e0] text-xs space-y-1">
-                  <div class="font-semibold text-[#1e4633]">植物器官锚点：</div>
-                  <p class="text-[#37423b]">${item.bioAnchorZh}</p>
+                  <div class="font-semibold text-[#1e4633]">${t('compareAnchor')}</div>
+                  <p class="text-[#37423b]">${anchor}</p>
                 </div>
                 <div class="p-3 rounded-xl bg-white border border-[#dfe5e0] text-xs space-y-1">
-                  <div class="font-semibold text-[#1e4633]">工程转译路径：</div>
-                  <p class="text-[#37423b]">${item.translationZh}</p>
+                  <div class="font-semibold text-[#1e4633]">${t('compareTranslation')}</div>
+                  <p class="text-[#37423b]">${translation}</p>
                 </div>
               </div>
             </div>
@@ -584,16 +862,25 @@
 
     function renderDirectoryTable() {
       const tbody = document.getElementById('directory-table-body');
-      tbody.innerHTML = DIRECTORY_INDEX.map(row => `
+      const categories = Object.keys(CATEGORY_KEYS).map(key => ({
+        key,
+        items: CATALOG.filter(item => item.garmentLine === key)
+      })).filter(group => group.items.length > 0);
+      tbody.innerHTML = categories.map(group => {
+        const clades = [...new Set(group.items.map(item => item.clade))]
+          .map(clade => t(CLADE_KEYS[clade] || 'allClades')).join(', ');
+        const examples = group.items.slice(0, 4).map(localizedName).join(', ');
+        const viewTotal = group.items.reduce((sum, item) => sum + item.views.length, 0);
+        return `
         <tr class="hover:bg-[#f7faf8]">
-          <td class="py-3 px-3.5 font-medium text-[#16201a]">${row.module}</td>
-          <td class="py-3 px-3.5 font-mono-code text-[#235c42]">${row.codeRange}</td>
-          <td class="py-3 px-3.5 text-right font-mono-code font-semibold">${row.count} 组</td>
-          <td class="py-3 px-3.5 text-right font-mono-code">${row.images.toLocaleString()} 张</td>
-          <td class="py-3 px-3.5 text-[#37423b]">${row.clade}</td>
-          <td class="py-3 px-3.5 text-[#5c6660]">${row.examples}</td>
+          <td class="py-3 px-3.5 font-medium text-[#16201a]">${t(CATEGORY_KEYS[group.key])}</td>
+          <td class="py-3 px-3.5 text-right font-mono-code font-semibold">${group.items.length}</td>
+          <td class="py-3 px-3.5 text-right font-mono-code">${viewTotal}</td>
+          <td class="py-3 px-3.5 text-[#37423b]">${clades}</td>
+          <td class="py-3 px-3.5 text-[#5c6660]">${examples}</td>
         </tr>
-      `).join('');
+      `;
+      }).join('');
     }
 
     function openDetailModal(itemId) {
@@ -604,8 +891,9 @@
       const activeView = item.views.find(v => v.key === activeKey) || item.views[0];
 
       document.getElementById('modal-img').src = activeView.src;
-      document.getElementById('modal-code').textContent = item.code + ' · ' + item.seriesZh;
-      document.getElementById('modal-title').textContent = state.lang === 'zh' ? item.nameZh : item.nameEn;
+      document.getElementById('modal-code').textContent = item.code + ' · ' + (state.lang === 'zh' ? item.seriesZh : (item.seriesEn || t(CATEGORY_KEYS[item.garmentLine] || 'tabGallery')));
+      document.getElementById('modal-img').alt = localizedName(item);
+      document.getElementById('modal-title').textContent = localizedName(item);
       document.getElementById('modal-latin').textContent = item.latin;
       document.getElementById('modal-anchor').textContent = state.lang === 'zh' ? item.bioAnchorZh : item.bioAnchorEn;
       document.getElementById('modal-translation').textContent = state.lang === 'zh' ? item.translationZh : item.translationEn;
@@ -700,23 +988,20 @@
       renderCards();
     });
 
-    document.querySelectorAll('.filter-pill').forEach(btn => {
-      btn.addEventListener('click', () => {
+    document.getElementById('filter-panel').addEventListener('click', (event) => {
+      const btn = event.target.closest('.filter-pill');
+      if (btn) {
         const group = btn.getAttribute('data-filter-group');
         const val = btn.getAttribute('data-filter-val');
         state[group] = val;
         updateFilterPillsUI();
         renderCards();
-      });
+      }
     });
 
     document.getElementById('btn-lang-toggle').addEventListener('click', () => {
       state.lang = state.lang === 'zh' ? 'en' : 'zh';
-      document.getElementById('app-subtitle').textContent = state.lang === 'zh'
-        ? '从植物器官形态、微观花粉到四维时装工程的中英双语参考工作台'
-        : 'Bilingual Reference Studio: Translating Botanical Morphology into 4D Garment Engineering';
-      renderCards();
-      if (state.modalItemId) openDetailModal(state.modalItemId);
+      applyLanguage();
     });
 
     document.getElementById('btn-open-license').addEventListener('click', () => {
@@ -747,7 +1032,7 @@
         organ: item.organ,
         license: "Non-Commercial & No-AI-Training (TDMRep: Reservation=1)"
       };
-      copyText(JSON.stringify(cleanMeta, null, 2), '已复制该植物条目的 catalog.json 元数据！');
+      copyText(JSON.stringify(cleanMeta, null, 2), t('toastCopied'));
     });
 
     document.getElementById('modal-btn-add-compare').addEventListener('click', () => {
@@ -757,18 +1042,18 @@
       }
       document.getElementById('detail-modal').classList.add('hidden');
       switchTab('compare');
-      showToast('已加入双列对比工作台！');
+      showToast(t('toastAddedCompare'));
     });
 
     document.getElementById('btn-clear-compare').addEventListener('click', () => {
       state.compareIds = ['HC-L005', 'BC-M001'];
       renderCompareView();
-      showToast('已重置为默认对比组（杂种鹅掌楸礼服 vs 银杏日常矩阵）');
+      showToast(t('toastResetCompare'));
     });
 
     document.getElementById('btn-copy-robots').addEventListener('click', () => {
-      const snippet = "User-agent: GPTBot\nDisallow: /\nUser-agent: CCBot\nDisallow: /\nUser-agent: Google-Extended\nDisallow: /\nUser-agent: ClaudeBot\nDisallow: /\n\n/*\n  X-Robots-Tag: noai, noimageai";
-      copyText(snippet, '已复制防 AI 训练 robots.txt 与 _headers 配置！');
+      const snippet = "User-agent: GPTBot\nDisallow: /\nUser-agent: CCBot\nDisallow: /\nUser-agent: Google-Extended\nDisallow: /\nUser-agent: ClaudeBot\nDisallow: /";
+      copyText(snippet, t('toastPolicyCopied'));
     });
 
     // Global delegated click listener for dynamic cards and modals
@@ -795,10 +1080,10 @@
         e.stopPropagation();
         if (state.savedIds.has(id)) {
           state.savedIds.delete(id);
-          showToast('已从收藏夹移除');
+          showToast(t('toastRemovedSaved'));
         } else {
           state.savedIds.add(id);
-          showToast('已加入收藏夹 ★');
+          showToast(t('toastAddedSaved'));
         }
         renderCards();
       } else if (action === 'add-compare' && id) {
@@ -807,7 +1092,7 @@
           state.compareIds = [state.compareIds[state.compareIds.length - 1], id];
         }
         renderCards();
-        showToast('已加入双列对比台（点击顶部「双列对比台」查看）');
+        showToast(t('toastAddedCompareHint'));
       }
     });
 
@@ -815,17 +1100,23 @@
     document.addEventListener('contextmenu', (e) => {
       if (e.target && e.target.tagName === 'IMG') {
         e.preventDefault();
-        showToast('版权保护：本植物仿生资产严禁商用及用于训练 AI 模型');
+        showToast(t('toastCopyright'));
       }
     });
 
     // Initial render
-    renderCards();
+    applyLanguage();
 
-    // Automatically load full cloud-built ./data/catalog.json (124 botanical themes, 415 WebP files) when hosted on GitHub Pages
+    // Load the checked-in catalog and merge entries not present in the embedded fallback.
     fetch('./data/catalog.json')
-      .then(r => r.ok ? r.json() : null)
-      .then(data => {
+      .then(response => {
+        if (response.ok) return response.json().then(data => ({ data, assetPrefix: '.' }));
+        return fetch('./public/data/catalog.json').then(localResponse =>
+          localResponse.ok ? localResponse.json().then(data => ({ data, assetPrefix: './public' })) : null
+        );
+      })
+      .then(result => {
+        const data = result && result.data;
         if (data && Array.isArray(data.items)) {
           const existingIds = new Set(CATALOG.map(i => i.id));
           data.items.forEach(item => {
@@ -834,7 +1125,7 @@
                 key: v.key,
                 labelZh: v.key,
                 labelEn: v.key,
-                src: '.' + v.preview
+                src: result.assetPrefix + v.preview
               }));
               CATALOG.push({
                 id: item.id,
@@ -847,9 +1138,9 @@
                 clade: item.clade,
                 organ: item.organ,
                 seriesZh: item.series,
-                seriesEn: item.series,
-                bioAnchorZh: '植物分类群：' + item.clade + ' · 仿生结构轴：' + item.organ,
-                bioAnchorEn: 'Clade: ' + item.clade + ' · Organ: ' + item.organ,
+                seriesEn: UI_TEXT.en[CATEGORY_KEYS[item.garmentLine]] || item.series,
+                bioAnchorZh: '植物类群：' + (UI_TEXT.zh[CLADE_KEYS[item.clade]] || item.clade) + ' · 形态结构：' + (UI_TEXT.zh[ORGAN_KEYS[item.organ]] || item.organ),
+                bioAnchorEn: 'Clade: ' + (UI_TEXT.en[CLADE_KEYS[item.clade]] || item.clade) + ' · Morphology: ' + (UI_TEXT.en[ORGAN_KEYS[item.organ]] || item.organ),
                 translationZh: '云端已转码 WebP 资产（含 TDMRep: Reservation=1 防训练 EXIF 标记）',
                 translationEn: 'Cloud-transcoded WebP asset with TDMRep: Reservation=1 anti-AI-training EXIF.',
                 extended: Boolean(item.extended),
@@ -859,12 +1150,10 @@
               state.selectedViewByCard[item.id] = mappedViews[0].key;
             }
           });
-          renderCards();
+          applyLanguage();
         }
       })
       .catch(() => {});
-
-    renderDirectoryTable();
   </script>
 </body>
 </html>
