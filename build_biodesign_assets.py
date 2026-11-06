@@ -455,7 +455,7 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
                     transcode_webp_with_protection(
                         img_path,
                         out_dir / rel_webp.lstrip("/"),
-                        out_dir / rel_thumb.lstrip("/") if v_key == "D1" else None,
+                        out_dir / rel_thumb.lstrip("/"),
                     )
                 views.append({"key": v_key, "preview": rel_webp, "thumb": rel_thumb})
                 total_images_count += 1
