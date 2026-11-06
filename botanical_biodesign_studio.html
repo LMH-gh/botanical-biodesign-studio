@@ -1132,6 +1132,14 @@
           }
         }
         if (data && Array.isArray(data.items)) {
+          // Keep embedded fallbacks and catalog entries aligned with the published asset root.
+          const assetBase = result.assetPrefix.replace(/\/$/, '');
+          CATALOG.forEach(item => {
+            item.views.forEach(view => {
+              const relativePath = String(view.src || '').replace(/^(?:\.\/|\/)?(?:public\/)?assets\//, '');
+              if (relativePath) view.src = `${assetBase}/assets/${relativePath}`;
+            });
+          });
           const existingIds = new Set(CATALOG.map(i => i.id));
           data.items.forEach(item => {
             if (!existingIds.has(item.id) && Array.isArray(item.views) && item.views.length > 0) {
