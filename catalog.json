@@ -1,0 +1,3523 @@
+{
+  "project": "Hark Botanical Biodesign Studio",
+  "version": "1.0.0",
+  "updatedAt": "2026-11-05",
+  "license": {
+    "code": "MIT",
+    "assets": "Non-Commercial & No-AI-Training (Strict Prohibition on ML/LoRA Training & Scraping)",
+    "tdmReservation": 1
+  },
+  "counts": {
+    "totalThemes": 124,
+    "totalImages": 266,
+    "uniqueTaxa": 111
+  },
+  "items": [
+    {
+      "id": "HC-L005",
+      "code": "L005",
+      "taxonKey": "杂种鹅掌楸",
+      "name": {
+        "zh": "杂种鹅掌楸",
+        "en": "Botanical Specimen L005"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "L_SPECIES",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L005_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L005_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L005_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L005_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L005_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L005_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L005_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L005_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L005_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L005_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L005_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L005_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L005_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L005_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L009",
+      "code": "L009",
+      "taxonKey": "卷丹",
+      "name": {
+        "zh": "卷丹",
+        "en": "Botanical Specimen L009"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "L_SPECIES",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L009_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L009_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L009_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L009_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L009_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L009_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L009_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L009_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L009_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L009_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L009_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L009_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L009_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L009_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L727",
+      "code": "L727",
+      "taxonKey": "生石花",
+      "name": {
+        "zh": "生石花",
+        "en": "Botanical Specimen L727"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "S14",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L727_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L727_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L727_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L727_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L727_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L727_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L727_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L727_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L727_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L727_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L727_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L727_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L727_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L727_SHEET.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-S025"
+      ]
+    },
+    {
+      "id": "HC-L731",
+      "code": "L731",
+      "taxonKey": "百岁兰",
+      "name": {
+        "zh": "百岁兰",
+        "en": "Botanical Specimen L731"
+      },
+      "garmentLine": "gown",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "S14",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L731_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L731_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L731_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L731_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L731_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L731_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L731_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L731_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L731_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L731_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L731_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L731_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L731_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L731_SHEET.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-M008"
+      ]
+    },
+    {
+      "id": "HC-L743",
+      "code": "L743",
+      "taxonKey": "麻黄",
+      "name": {
+        "zh": "麻黄",
+        "en": "Ephedra sinica"
+      },
+      "garmentLine": "gown",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "S14",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L743_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L743_D1.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L206",
+      "code": "L206",
+      "taxonKey": "向日葵花粉",
+      "name": {
+        "zh": "向日葵花粉",
+        "en": "Botanical Specimen L206"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "micro_pollen",
+      "series": "S1",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L206_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L206_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L206_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L206_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L206_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L206_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L206_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L206_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L206_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L206_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L206_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L206_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L206_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L206_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L212",
+      "code": "L212",
+      "taxonKey": "月见草花粉",
+      "name": {
+        "zh": "月见草花粉",
+        "en": "Botanical Specimen L212"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "micro_pollen",
+      "series": "S1",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L212_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L212_D1.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L218",
+      "code": "L218",
+      "taxonKey": "圆筛藻",
+      "name": {
+        "zh": "圆筛藻",
+        "en": "Botanical Specimen L218"
+      },
+      "garmentLine": "gown",
+      "clade": "algae",
+      "organ": "micro_pollen",
+      "series": "S1",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L218_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L218_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L218_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L218_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L218_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L218_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L218_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L218_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L218_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L218_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L218_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L218_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L218_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L218_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L236",
+      "code": "L236",
+      "taxonKey": "苹果猪笼草",
+      "name": {
+        "zh": "苹果猪笼草",
+        "en": "Botanical Specimen L236"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "carnivorous",
+      "series": "S2",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L236_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L236_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L236_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L236_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L236_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L236_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L236_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L236_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L236_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L236_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L236_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L236_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L236_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L236_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L246",
+      "code": "L246",
+      "taxonKey": "捕蝇草",
+      "name": {
+        "zh": "捕蝇草张开",
+        "en": "Botanical Specimen L246"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "carnivorous",
+      "series": "S2",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L246_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L246_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L246_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L246_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L246_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L246_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L246_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L246_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L246_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L246_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L246_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L246_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L246_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L246_SHEET.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-S028"
+      ]
+    },
+    {
+      "id": "HC-L256",
+      "code": "L256",
+      "taxonKey": "蒲公英冠毛球",
+      "name": {
+        "zh": "蒲公英冠毛球",
+        "en": "Botanical Specimen L256"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "seed_dispersal",
+      "series": "S3",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L256_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L256_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L256_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L256_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L256_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L256_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L256_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L256_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L256_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L256_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L256_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L256_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L256_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L256_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L274",
+      "code": "L274",
+      "taxonKey": "莲蓬",
+      "name": {
+        "zh": "莲蓬",
+        "en": "Botanical Specimen L274"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "seed_dispersal",
+      "series": "S3",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L274_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L274_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L274_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L274_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L274_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L274_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L274_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L274_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L274_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L274_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L274_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L274_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L274_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L274_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L302",
+      "code": "L302",
+      "taxonKey": "蜂兰",
+      "name": {
+        "zh": "蜂兰",
+        "en": "Botanical Specimen L302"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "S5",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L302_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L302_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L302_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L302_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L302_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L302_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L302_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L302_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L302_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L302_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L302_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L302_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L302_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L302_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L316",
+      "code": "L316",
+      "taxonKey": "大王花",
+      "name": {
+        "zh": "大王花",
+        "en": "Botanical Specimen L316"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "S5",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L316_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L316_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L316_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L316_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L316_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L316_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L316_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L316_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L316_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L316_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L316_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L316_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L316_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L316_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L326",
+      "code": "L326",
+      "taxonKey": "银杏",
+      "name": {
+        "zh": "立春冬芽",
+        "en": "Botanical Specimen L326"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "S6",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L326_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L326_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L326_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L326_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L326_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L326_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L326_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L326_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L326_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L326_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L326_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L326_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L326_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L326_SHEET.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L338",
+        "HC-L343",
+        "BC-M001",
+        "BC-S001",
+        "LG-B003"
+      ]
+    },
+    {
+      "id": "HC-L338",
+      "code": "L338",
+      "taxonKey": "银杏",
+      "name": {
+        "zh": "立秋",
+        "en": "Botanical Specimen L338"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "S6",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L338_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L338_D1.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L326",
+        "HC-L343",
+        "BC-M001",
+        "BC-S001",
+        "LG-B003"
+      ]
+    },
+    {
+      "id": "HC-L343",
+      "code": "L343",
+      "taxonKey": "银杏",
+      "name": {
+        "zh": "霜降",
+        "en": "Botanical Specimen L343"
+      },
+      "garmentLine": "gown",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "S6",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L343_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L343_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L343_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L343_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L343_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L343_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L343_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L343_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L343_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L343_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L343_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L343_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L343_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L343_SHEET.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L326",
+        "HC-L338",
+        "BC-M001",
+        "BC-S001",
+        "LG-B003"
+      ]
+    },
+    {
+      "id": "HC-L350",
+      "code": "L350",
+      "taxonKey": "荚果蕨拳卷幼叶",
+      "name": {
+        "zh": "荚果蕨拳卷幼叶",
+        "en": "Botanical Specimen L350"
+      },
+      "garmentLine": "gown",
+      "clade": "pteridophyte",
+      "organ": "seed_dispersal",
+      "series": "S7",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L350_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L350_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L350_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L350_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L350_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L350_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L350_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L350_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L350_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L350_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L350_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L350_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L350_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L350_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "HC-L351",
+      "code": "L351",
+      "taxonKey": "桫椤",
+      "name": {
+        "zh": "桫椤",
+        "en": "Botanical Specimen L351"
+      },
+      "garmentLine": "gown",
+      "clade": "pteridophyte",
+      "organ": "foliage_venation",
+      "series": "S7",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L351_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L351_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L351_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L351_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L351_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L351_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L351_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L351_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L351_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L351_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L351_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L351_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L351_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L351_SHEET.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-S079"
+      ]
+    },
+    {
+      "id": "HC-L363",
+      "code": "L363",
+      "taxonKey": "葫芦藓孢蒴",
+      "name": {
+        "zh": "葫芦藓孢蒴",
+        "en": "Botanical Specimen L363"
+      },
+      "garmentLine": "gown",
+      "clade": "bryophyte",
+      "organ": "foliage_venation",
+      "series": "S7",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/gown/HC-L363_D1.webp",
+          "thumb": "/assets/gown/thumbs/HC-L363_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/gown/HC-L363_D2.webp",
+          "thumb": "/assets/gown/thumbs/HC-L363_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/gown/HC-L363_D3.webp",
+          "thumb": "/assets/gown/thumbs/HC-L363_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/gown/HC-L363_D4.webp",
+          "thumb": "/assets/gown/thumbs/HC-L363_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/gown/HC-L363_D5.webp",
+          "thumb": "/assets/gown/thumbs/HC-L363_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/gown/HC-L363_D6.webp",
+          "thumb": "/assets/gown/thumbs/HC-L363_D6.webp"
+        },
+        {
+          "key": "SHEET",
+          "preview": "/assets/gown/HC-L363_SHEET.webp",
+          "thumb": "/assets/gown/thumbs/HC-L363_SHEET.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-M001",
+      "code": "C01",
+      "taxonKey": "银杏",
+      "name": {
+        "zh": "银杏",
+        "en": "Ginkgo BioCasual"
+      },
+      "garmentLine": "casual_matrix",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "OSC_3.0_BioCasual",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/casual/BC-M001_D1.webp",
+          "thumb": "/assets/casual/thumbs/BC-M001_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/casual/BC-M001_D2.webp",
+          "thumb": "/assets/casual/thumbs/BC-M001_D2.webp"
+        },
+        {
+          "key": "VIBE",
+          "preview": "/assets/casual/BC-M001_VIBE.webp",
+          "thumb": "/assets/casual/thumbs/BC-M001_VIBE.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/casual/BC-M001_D3.webp",
+          "thumb": "/assets/casual/thumbs/BC-M001_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/casual/BC-M001_D4.webp",
+          "thumb": "/assets/casual/thumbs/BC-M001_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/casual/BC-M001_D5.webp",
+          "thumb": "/assets/casual/thumbs/BC-M001_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/casual/BC-M001_D6.webp",
+          "thumb": "/assets/casual/thumbs/BC-M001_D6.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L326",
+        "HC-L338",
+        "HC-L343",
+        "BC-S001",
+        "LG-B003"
+      ]
+    },
+    {
+      "id": "BC-M002",
+      "code": "C02",
+      "taxonKey": "巨藻",
+      "name": {
+        "zh": "巨藻",
+        "en": "Kelp BioCasual"
+      },
+      "garmentLine": "casual_matrix",
+      "clade": "algae",
+      "organ": "micro_pollen",
+      "series": "OSC_3.0_BioCasual",
+      "extended": false,
+      "views": [
+        {
+          "key": "VIBE",
+          "preview": "/assets/casual/BC-M002_VIBE.webp",
+          "thumb": "/assets/casual/thumbs/BC-M002_VIBE.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-M005",
+      "code": "C05",
+      "taxonKey": "角叉菜",
+      "name": {
+        "zh": "角叉菜",
+        "en": "Chondrus BioCasual"
+      },
+      "garmentLine": "casual_matrix",
+      "clade": "algae",
+      "organ": "floral_corolla",
+      "series": "OSC_3.0_BioCasual",
+      "extended": false,
+      "views": [
+        {
+          "key": "VIBE",
+          "preview": "/assets/casual/BC-M005_VIBE.webp",
+          "thumb": "/assets/casual/thumbs/BC-M005_VIBE.webp"
+        },
+        {
+          "key": "D1",
+          "preview": "/assets/casual/BC-M005_D1.webp",
+          "thumb": "/assets/casual/thumbs/BC-M005_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/casual/BC-M005_D2.webp",
+          "thumb": "/assets/casual/thumbs/BC-M005_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/casual/BC-M005_D3.webp",
+          "thumb": "/assets/casual/thumbs/BC-M005_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/casual/BC-M005_D4.webp",
+          "thumb": "/assets/casual/thumbs/BC-M005_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/casual/BC-M005_D5.webp",
+          "thumb": "/assets/casual/thumbs/BC-M005_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/casual/BC-M005_D6.webp",
+          "thumb": "/assets/casual/thumbs/BC-M005_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-M006",
+      "code": "C06",
+      "taxonKey": "苏铁",
+      "name": {
+        "zh": "苏铁",
+        "en": "Cycas BioCasual"
+      },
+      "garmentLine": "casual_matrix",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "OSC_3.0_BioCasual",
+      "extended": false,
+      "views": [
+        {
+          "key": "VIBE",
+          "preview": "/assets/casual/BC-M006_VIBE.webp",
+          "thumb": "/assets/casual/thumbs/BC-M006_VIBE.webp"
+        },
+        {
+          "key": "D1",
+          "preview": "/assets/casual/BC-M006_D1.webp",
+          "thumb": "/assets/casual/thumbs/BC-M006_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/casual/BC-M006_D2.webp",
+          "thumb": "/assets/casual/thumbs/BC-M006_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/casual/BC-M006_D3.webp",
+          "thumb": "/assets/casual/thumbs/BC-M006_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/casual/BC-M006_D4.webp",
+          "thumb": "/assets/casual/thumbs/BC-M006_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/casual/BC-M006_D5.webp",
+          "thumb": "/assets/casual/thumbs/BC-M006_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/casual/BC-M006_D6.webp",
+          "thumb": "/assets/casual/thumbs/BC-M006_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-M007",
+      "code": "C07",
+      "taxonKey": "问荆",
+      "name": {
+        "zh": "问荆",
+        "en": "Equisetum BioCasual"
+      },
+      "garmentLine": "casual_matrix",
+      "clade": "pteridophyte",
+      "organ": "foliage_venation",
+      "series": "OSC_3.0_BioCasual",
+      "extended": false,
+      "views": [
+        {
+          "key": "VIBE",
+          "preview": "/assets/casual/BC-M007_VIBE.webp",
+          "thumb": "/assets/casual/thumbs/BC-M007_VIBE.webp"
+        },
+        {
+          "key": "D1",
+          "preview": "/assets/casual/BC-M007_D1.webp",
+          "thumb": "/assets/casual/thumbs/BC-M007_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/casual/BC-M007_D2.webp",
+          "thumb": "/assets/casual/thumbs/BC-M007_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/casual/BC-M007_D3.webp",
+          "thumb": "/assets/casual/thumbs/BC-M007_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/casual/BC-M007_D4.webp",
+          "thumb": "/assets/casual/thumbs/BC-M007_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/casual/BC-M007_D5.webp",
+          "thumb": "/assets/casual/thumbs/BC-M007_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/casual/BC-M007_D6.webp",
+          "thumb": "/assets/casual/thumbs/BC-M007_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-M008",
+      "code": "C08",
+      "taxonKey": "百岁兰",
+      "name": {
+        "zh": "百岁兰",
+        "en": "Welwitschia BioCasual"
+      },
+      "garmentLine": "casual_matrix",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "OSC_3.0_BioCasual",
+      "extended": false,
+      "views": [
+        {
+          "key": "VIBE",
+          "preview": "/assets/casual/BC-M008_VIBE.webp",
+          "thumb": "/assets/casual/thumbs/BC-M008_VIBE.webp"
+        },
+        {
+          "key": "D1",
+          "preview": "/assets/casual/BC-M008_D1.webp",
+          "thumb": "/assets/casual/thumbs/BC-M008_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/casual/BC-M008_D2.webp",
+          "thumb": "/assets/casual/thumbs/BC-M008_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/casual/BC-M008_D3.webp",
+          "thumb": "/assets/casual/thumbs/BC-M008_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/casual/BC-M008_D4.webp",
+          "thumb": "/assets/casual/thumbs/BC-M008_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/casual/BC-M008_D5.webp",
+          "thumb": "/assets/casual/thumbs/BC-M008_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/casual/BC-M008_D6.webp",
+          "thumb": "/assets/casual/thumbs/BC-M008_D6.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L731"
+      ]
+    },
+    {
+      "id": "BC-M009",
+      "code": "C09",
+      "taxonKey": "龟背竹",
+      "name": {
+        "zh": "龟背竹",
+        "en": "Monstera BioCasual"
+      },
+      "garmentLine": "casual_matrix",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "OSC_3.0_BioCasual",
+      "extended": false,
+      "views": [
+        {
+          "key": "VIBE",
+          "preview": "/assets/casual/BC-M009_VIBE.webp",
+          "thumb": "/assets/casual/thumbs/BC-M009_VIBE.webp"
+        },
+        {
+          "key": "D1",
+          "preview": "/assets/casual/BC-M009_D1.webp",
+          "thumb": "/assets/casual/thumbs/BC-M009_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/casual/BC-M009_D2.webp",
+          "thumb": "/assets/casual/thumbs/BC-M009_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/casual/BC-M009_D3.webp",
+          "thumb": "/assets/casual/thumbs/BC-M009_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/casual/BC-M009_D4.webp",
+          "thumb": "/assets/casual/thumbs/BC-M009_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/casual/BC-M009_D5.webp",
+          "thumb": "/assets/casual/thumbs/BC-M009_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/casual/BC-M009_D6.webp",
+          "thumb": "/assets/casual/thumbs/BC-M009_D6.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-S007"
+      ]
+    },
+    {
+      "id": "BC-M010",
+      "code": "C10",
+      "taxonKey": "龙舌兰",
+      "name": {
+        "zh": "美洲龙舌兰",
+        "en": "Agave BioCasual"
+      },
+      "garmentLine": "casual_matrix",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "OSC_3.0_BioCasual",
+      "extended": false,
+      "views": [
+        {
+          "key": "VIBE",
+          "preview": "/assets/casual/BC-M010_VIBE.webp",
+          "thumb": "/assets/casual/thumbs/BC-M010_VIBE.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-M085",
+      "code": "C85",
+      "taxonKey": "满江红",
+      "name": {
+        "zh": "细叶满江红",
+        "en": "Azolla BioCasual"
+      },
+      "garmentLine": "casual_matrix",
+      "clade": "pteridophyte",
+      "organ": "foliage_venation",
+      "series": "OSC_3.0_BioCasual",
+      "extended": false,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/casual/BC-M085_D1.webp",
+          "thumb": "/assets/casual/thumbs/BC-M085_D1.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-S081"
+      ]
+    },
+    {
+      "id": "BC-S001",
+      "code": "BC-S001",
+      "taxonKey": "银杏",
+      "name": {
+        "zh": "银杏",
+        "en": "Ginkgo Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S001_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S001_FINAL.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L326",
+        "HC-L338",
+        "HC-L343",
+        "BC-M001",
+        "LG-B003"
+      ]
+    },
+    {
+      "id": "BC-S007",
+      "code": "BC-S007",
+      "taxonKey": "龟背竹",
+      "name": {
+        "zh": "龟背竹",
+        "en": "Monstera Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S007_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S007_FINAL.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-M009"
+      ]
+    },
+    {
+      "id": "BC-S023",
+      "code": "BC-S023",
+      "taxonKey": "大丽花",
+      "name": {
+        "zh": "大丽花",
+        "en": "Dahlia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S023_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S023_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S024",
+      "code": "BC-S024",
+      "taxonKey": "向日葵",
+      "name": {
+        "zh": "向日葵",
+        "en": "Helianthus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S024_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S024_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S025",
+      "code": "BC-S025",
+      "taxonKey": "生石花",
+      "name": {
+        "zh": "生石花",
+        "en": "Lithops Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S025_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S025_FINAL.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L727"
+      ]
+    },
+    {
+      "id": "BC-S026",
+      "code": "BC-S026",
+      "taxonKey": "团藻",
+      "name": {
+        "zh": "团藻",
+        "en": "Volvox Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "algae",
+      "organ": "micro_pollen",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S026_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S026_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S028",
+      "code": "BC-S028",
+      "taxonKey": "捕蝇草",
+      "name": {
+        "zh": "捕蝇草",
+        "en": "Dionaea Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "carnivorous",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S028_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S028_FINAL.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L246"
+      ]
+    },
+    {
+      "id": "BC-S029",
+      "code": "BC-S029",
+      "taxonKey": "伞藻",
+      "name": {
+        "zh": "伞藻",
+        "en": "Acetabularia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "algae",
+      "organ": "micro_pollen",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S029_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S029_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S030",
+      "code": "BC-S030",
+      "taxonKey": "马来王猪笼草",
+      "name": {
+        "zh": "马来王猪笼草",
+        "en": "Nepenthes Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "carnivorous",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S030_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S030_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S031",
+      "code": "BC-S031",
+      "taxonKey": "紫瓶子草",
+      "name": {
+        "zh": "紫瓶子草",
+        "en": "Sarracenia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "carnivorous",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S031_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S031_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S032",
+      "code": "BC-S032",
+      "taxonKey": "合欢",
+      "name": {
+        "zh": "合欢",
+        "en": "Albizia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S032_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S032_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S033",
+      "code": "BC-S033",
+      "taxonKey": "凤凰木",
+      "name": {
+        "zh": "凤凰木",
+        "en": "Delonix Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S033_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S033_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S034",
+      "code": "BC-S034",
+      "taxonKey": "含羞草",
+      "name": {
+        "zh": "含羞草",
+        "en": "Mimosa Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S034_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S034_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S035",
+      "code": "BC-S035",
+      "taxonKey": "紫藤",
+      "name": {
+        "zh": "紫藤",
+        "en": "Wisteria Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S035_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S035_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S036",
+      "code": "BC-S036",
+      "taxonKey": "荷花玉兰",
+      "name": {
+        "zh": "荷花玉兰",
+        "en": "Magnolia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S036_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S036_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S038",
+      "code": "BC-S038",
+      "taxonKey": "西番莲",
+      "name": {
+        "zh": "蓝花西番莲",
+        "en": "Passiflora Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S038_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S038_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S039",
+      "code": "BC-S039",
+      "taxonKey": "芡实",
+      "name": {
+        "zh": "芡实",
+        "en": "Euryale Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S039_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S039_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S040",
+      "code": "BC-S040",
+      "taxonKey": "蓝睡莲",
+      "name": {
+        "zh": "蓝睡莲",
+        "en": "Nymphaea Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S040_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S040_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S041",
+      "code": "BC-S041",
+      "taxonKey": "王莲",
+      "name": {
+        "zh": "亚马孙王莲",
+        "en": "Victoria Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S041_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S041_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S042",
+      "code": "BC-S042",
+      "taxonKey": "莲",
+      "name": {
+        "zh": "莲",
+        "en": "Nelumbo Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S042_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S042_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S043",
+      "code": "BC-S043",
+      "taxonKey": "锯叶佛塔树",
+      "name": {
+        "zh": "锯叶佛塔树",
+        "en": "Banksia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S043_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S043_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S044",
+      "code": "BC-S044",
+      "taxonKey": "帝王花",
+      "name": {
+        "zh": "帝王花",
+        "en": "Protea Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S044_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S044_FINAL.webp"
+        }
+      ],
+      "relatedIds": [
+        "LG-B001"
+      ]
+    },
+    {
+      "id": "BC-S046",
+      "code": "BC-S046",
+      "taxonKey": "鸡爪槭",
+      "name": {
+        "zh": "鸡爪槭",
+        "en": "Acer Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S046_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S046_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S048",
+      "code": "BC-S048",
+      "taxonKey": "月影",
+      "name": {
+        "zh": "月影",
+        "en": "Echeveria Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S048_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S048_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S049",
+      "code": "BC-S049",
+      "taxonKey": "智利南洋杉",
+      "name": {
+        "zh": "智利南洋杉",
+        "en": "Araucaria Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S049_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S049_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S051",
+      "code": "BC-S051",
+      "taxonKey": "澳洲桫椤",
+      "name": {
+        "zh": "澳洲桫椤",
+        "en": "Alsophila Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "pteridophyte",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S051_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S051_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S052",
+      "code": "BC-S052",
+      "taxonKey": "二歧鹿角蕨",
+      "name": {
+        "zh": "二歧鹿角蕨",
+        "en": "Platycerium Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "pteridophyte",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S052_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S052_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S053",
+      "code": "BC-S053",
+      "taxonKey": "牡丹",
+      "name": {
+        "zh": "牡丹",
+        "en": "Paeonia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S053_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S053_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S054",
+      "code": "BC-S054",
+      "taxonKey": "山茶",
+      "name": {
+        "zh": "山茶",
+        "en": "Camellia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S054_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S054_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S055",
+      "code": "BC-S055",
+      "taxonKey": "桂花",
+      "name": {
+        "zh": "桂花",
+        "en": "Osmanthus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S055_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S055_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S056",
+      "code": "BC-S056",
+      "taxonKey": "梅",
+      "name": {
+        "zh": "梅",
+        "en": "Prunus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S056_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S056_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S057",
+      "code": "BC-S057",
+      "taxonKey": "菊花",
+      "name": {
+        "zh": "菊花",
+        "en": "Chrysanthemum Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S057_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S057_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S058",
+      "code": "BC-S058",
+      "taxonKey": "绣球",
+      "name": {
+        "zh": "绣球",
+        "en": "Hydrangea Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S058_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S058_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S059",
+      "code": "BC-S059",
+      "taxonKey": "栀子",
+      "name": {
+        "zh": "栀子",
+        "en": "Gardenia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S059_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S059_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S060",
+      "code": "BC-S060",
+      "taxonKey": "玉兰",
+      "name": {
+        "zh": "玉兰",
+        "en": "Yulania Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S060_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S060_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S061",
+      "code": "BC-S061",
+      "taxonKey": "春兰",
+      "name": {
+        "zh": "春兰",
+        "en": "Cymbidium Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S061_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S061_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S062",
+      "code": "BC-S062",
+      "taxonKey": "月季",
+      "name": {
+        "zh": "月季",
+        "en": "Rosa Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S062_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S062_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S063",
+      "code": "BC-S063",
+      "taxonKey": "紫薇",
+      "name": {
+        "zh": "紫薇",
+        "en": "Lagerstroemia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S063_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S063_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S064",
+      "code": "BC-S064",
+      "taxonKey": "木芙蓉",
+      "name": {
+        "zh": "木芙蓉",
+        "en": "Hibiscus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S064_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S064_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S065",
+      "code": "BC-S065",
+      "taxonKey": "美洲黄莲",
+      "name": {
+        "zh": "美洲黄莲",
+        "en": "Nelumbo_lutea Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S065_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S065_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S066",
+      "code": "BC-S066",
+      "taxonKey": "菱",
+      "name": {
+        "zh": "菱",
+        "en": "Trapa Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "seed_dispersal",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S066_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S066_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S067",
+      "code": "BC-S067",
+      "taxonKey": "酸浆",
+      "name": {
+        "zh": "酸浆",
+        "en": "Physalis Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "seed_dispersal",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S067_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S067_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S068",
+      "code": "BC-S068",
+      "taxonKey": "黑种草",
+      "name": {
+        "zh": "黑种草",
+        "en": "Nigella Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S068_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S068_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S069",
+      "code": "BC-S069",
+      "taxonKey": "铁线莲",
+      "name": {
+        "zh": "铁线莲",
+        "en": "Clematis Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S069_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S069_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S070",
+      "code": "BC-S070",
+      "taxonKey": "耧斗菜",
+      "name": {
+        "zh": "耧斗菜",
+        "en": "Aquilegia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S070_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S070_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S071",
+      "code": "BC-S071",
+      "taxonKey": "皇冠贝母",
+      "name": {
+        "zh": "皇冠贝母",
+        "en": "Fritillaria Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S071_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S071_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S072",
+      "code": "BC-S072",
+      "taxonKey": "大花葱",
+      "name": {
+        "zh": "大花葱",
+        "en": "Allium Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S072_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S072_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S073",
+      "code": "BC-S073",
+      "taxonKey": "银扇草",
+      "name": {
+        "zh": "银扇草",
+        "en": "Lunaria Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S073_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S073_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S074",
+      "code": "BC-S074",
+      "taxonKey": "百脉根",
+      "name": {
+        "zh": "百脉根",
+        "en": "Lotus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S074_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S074_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S075",
+      "code": "BC-S075",
+      "taxonKey": "美丽异木棉",
+      "name": {
+        "zh": "美丽异木棉",
+        "en": "Ceiba Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S075_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S075_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S076",
+      "code": "BC-S076",
+      "taxonKey": "瓶树",
+      "name": {
+        "zh": "瓶树",
+        "en": "Brachychiton Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S076_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S076_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S077",
+      "code": "BC-S077",
+      "taxonKey": "索科特拉龙血树",
+      "name": {
+        "zh": "索科特拉龙血树",
+        "en": "Dracaena Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S077_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S077_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S078",
+      "code": "BC-S078",
+      "taxonKey": "露兜树",
+      "name": {
+        "zh": "露兜树",
+        "en": "Pandanus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S078_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S078_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S079",
+      "code": "BC-S079",
+      "taxonKey": "桫椤",
+      "name": {
+        "zh": "桫椤",
+        "en": "Cyathea Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "pteridophyte",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S079_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S079_FINAL.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L351"
+      ]
+    },
+    {
+      "id": "BC-S080",
+      "code": "BC-S080",
+      "taxonKey": "复活草",
+      "name": {
+        "zh": "复活草",
+        "en": "Selaginella Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "pteridophyte",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S080_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S080_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S081",
+      "code": "BC-S081",
+      "taxonKey": "满江红",
+      "name": {
+        "zh": "细叶满江红",
+        "en": "Azolla Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "pteridophyte",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S081_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S081_FINAL.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-M085"
+      ]
+    },
+    {
+      "id": "BC-S082",
+      "code": "BC-S082",
+      "taxonKey": "泡叶藻",
+      "name": {
+        "zh": "泡叶藻",
+        "en": "Fucus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "algae",
+      "organ": "micro_pollen",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S082_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S082_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S094",
+      "code": "BC-S094",
+      "taxonKey": "椰子",
+      "name": {
+        "zh": "椰子",
+        "en": "Cocos Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "seed_dispersal",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S094_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S094_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S095",
+      "code": "BC-S095",
+      "taxonKey": "加拿利海枣",
+      "name": {
+        "zh": "加拿利海枣",
+        "en": "Phoenix Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S095_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S095_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S097",
+      "code": "BC-S097",
+      "taxonKey": "水仙",
+      "name": {
+        "zh": "水仙",
+        "en": "Narcissus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S097_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S097_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S098",
+      "code": "BC-S098",
+      "taxonKey": "芦荟",
+      "name": {
+        "zh": "芦荟",
+        "en": "Aloe Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S098_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S098_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S099",
+      "code": "BC-S099",
+      "taxonKey": "石斛",
+      "name": {
+        "zh": "石斛",
+        "en": "Dendrobium Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S099_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S099_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S100",
+      "code": "BC-S100",
+      "taxonKey": "香荚兰",
+      "name": {
+        "zh": "香荚兰",
+        "en": "Vanilla Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S100_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S100_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S101",
+      "code": "BC-S101",
+      "taxonKey": "百合",
+      "name": {
+        "zh": "百合",
+        "en": "Lilium Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S101_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S101_FINAL.webp"
+        }
+      ],
+      "relatedIds": [
+        "LG-B002"
+      ]
+    },
+    {
+      "id": "BC-S102",
+      "code": "BC-S102",
+      "taxonKey": "孝顺竹",
+      "name": {
+        "zh": "孝顺竹",
+        "en": "Bambusa Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S102_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S102_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S103",
+      "code": "BC-S103",
+      "taxonKey": "稻",
+      "name": {
+        "zh": "稻",
+        "en": "Oryza Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "seed_dispersal",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S103_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S103_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S104",
+      "code": "BC-S104",
+      "taxonKey": "甘蔗",
+      "name": {
+        "zh": "甘蔗",
+        "en": "Saccharum Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S104_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S104_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S105",
+      "code": "BC-S105",
+      "taxonKey": "玉蜀黍",
+      "name": {
+        "zh": "玉蜀黍",
+        "en": "Zea Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S105_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S105_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S107",
+      "code": "BC-S107",
+      "taxonKey": "芭蕉",
+      "name": {
+        "zh": "芭蕉",
+        "en": "Musa Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S107_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S107_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S108",
+      "code": "BC-S108",
+      "taxonKey": "松果菊",
+      "name": {
+        "zh": "松果菊",
+        "en": "Echinacea Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "gymnosperm",
+      "organ": "seed_dispersal",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S108_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S108_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S110",
+      "code": "BC-S110",
+      "taxonKey": "巨人柱",
+      "name": {
+        "zh": "巨人柱",
+        "en": "Carnegiea Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S110_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S110_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S111",
+      "code": "BC-S111",
+      "taxonKey": "仙人掌",
+      "name": {
+        "zh": "仙人掌",
+        "en": "Opuntia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S111_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S111_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S113",
+      "code": "BC-S113",
+      "taxonKey": "茅膏菜",
+      "name": {
+        "zh": "茅膏菜",
+        "en": "Drosera Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "carnivorous",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S113_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S113_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S115",
+      "code": "BC-S115",
+      "taxonKey": "洋紫荆",
+      "name": {
+        "zh": "洋紫荆",
+        "en": "Bauhinia Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S115_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S115_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S117",
+      "code": "BC-S117",
+      "taxonKey": "刺桐",
+      "name": {
+        "zh": "刺桐",
+        "en": "Erythrina Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S117_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S117_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S119",
+      "code": "BC-S119",
+      "taxonKey": "白桦",
+      "name": {
+        "zh": "白桦",
+        "en": "Betula Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S119_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S119_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S121",
+      "code": "BC-S121",
+      "taxonKey": "夏栎",
+      "name": {
+        "zh": "夏栎",
+        "en": "Quercus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S121_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S121_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S122",
+      "code": "BC-S122",
+      "taxonKey": "毛白杨",
+      "name": {
+        "zh": "毛白杨",
+        "en": "Populus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S122_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S122_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S123",
+      "code": "BC-S123",
+      "taxonKey": "垂柳",
+      "name": {
+        "zh": "垂柳",
+        "en": "Salix Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S123_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S123_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S124",
+      "code": "BC-S124",
+      "taxonKey": "睡莲",
+      "name": {
+        "zh": "睡莲",
+        "en": "Nymphaea_alba Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S124_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S124_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S126",
+      "code": "BC-S126",
+      "taxonKey": "玉树",
+      "name": {
+        "zh": "玉树",
+        "en": "Crassula Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S126_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S126_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S128",
+      "code": "BC-S128",
+      "taxonKey": "刺柏",
+      "name": {
+        "zh": "刺柏",
+        "en": "Juniperus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S128_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S128_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S129",
+      "code": "BC-S129",
+      "taxonKey": "巨杉",
+      "name": {
+        "zh": "巨杉",
+        "en": "Sequoiadendron Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S129_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S129_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S130",
+      "code": "BC-S130",
+      "taxonKey": "落羽杉",
+      "name": {
+        "zh": "落羽杉",
+        "en": "Taxodium Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S130_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S130_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S131",
+      "code": "BC-S131",
+      "taxonKey": "冷杉",
+      "name": {
+        "zh": "冷杉",
+        "en": "Abies Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S131_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S131_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S132",
+      "code": "BC-S132",
+      "taxonKey": "雪松",
+      "name": {
+        "zh": "雪松",
+        "en": "Cedrus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S132_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S132_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S133",
+      "code": "BC-S133",
+      "taxonKey": "油松",
+      "name": {
+        "zh": "油松",
+        "en": "Pinus Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S133_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S133_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S134",
+      "code": "BC-S134",
+      "taxonKey": "刺松藻",
+      "name": {
+        "zh": "刺松藻",
+        "en": "Codium Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "algae",
+      "organ": "micro_pollen",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S134_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S134_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S135",
+      "code": "BC-S135",
+      "taxonKey": "团扇藻",
+      "name": {
+        "zh": "团扇藻",
+        "en": "Padina Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "algae",
+      "organ": "micro_pollen",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S135_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S135_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S136",
+      "code": "BC-S136",
+      "taxonKey": "蕨藻",
+      "name": {
+        "zh": "蕨藻",
+        "en": "Caulerpa Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "algae",
+      "organ": "micro_pollen",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S136_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S136_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BC-S137",
+      "code": "BC-S137",
+      "taxonKey": "轮藻",
+      "name": {
+        "zh": "轮藻",
+        "en": "Chara Habitat RTW"
+      },
+      "garmentLine": "casual_habitat",
+      "clade": "algae",
+      "organ": "micro_pollen",
+      "series": "Habitat_Hero_Detail",
+      "extended": false,
+      "views": [
+        {
+          "key": "FINAL",
+          "preview": "/assets/habitat/BC-S137_FINAL.webp",
+          "thumb": "/assets/habitat/thumbs/BC-S137_FINAL.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "LG-B001",
+      "code": "LG-B001",
+      "taxonKey": "帝王花",
+      "name": {
+        "zh": "帝王花 银毛苞碗",
+        "en": "Botanical Intimate · 帝王花"
+      },
+      "garmentLine": "intimate",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Intimate",
+      "extended": true,
+      "views": [
+        {
+          "key": "BOARD",
+          "preview": "/assets/intimate/LG-B001_BOARD.webp",
+          "thumb": "/assets/intimate/thumbs/LG-B001_BOARD.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-S044"
+      ]
+    },
+    {
+      "id": "LG-B002",
+      "code": "LG-B002",
+      "taxonKey": "百合",
+      "name": {
+        "zh": "百合 粉心蓝边",
+        "en": "Botanical Intimate · 百合"
+      },
+      "garmentLine": "intimate",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Intimate",
+      "extended": true,
+      "views": [
+        {
+          "key": "FRONT",
+          "preview": "/assets/intimate/LG-B002_FRONT.webp",
+          "thumb": "/assets/intimate/thumbs/LG-B002_FRONT.webp"
+        },
+        {
+          "key": "BOARD",
+          "preview": "/assets/intimate/LG-B002_BOARD.webp",
+          "thumb": "/assets/intimate/thumbs/LG-B002_BOARD.webp"
+        },
+        {
+          "key": "PRODUCT",
+          "preview": "/assets/intimate/LG-B002_PRODUCT.webp",
+          "thumb": "/assets/intimate/thumbs/LG-B002_PRODUCT.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-S101"
+      ]
+    },
+    {
+      "id": "LG-B003",
+      "code": "LG-B003",
+      "taxonKey": "银杏",
+      "name": {
+        "zh": "银杏 金扇二裂",
+        "en": "Botanical Intimate · 银杏"
+      },
+      "garmentLine": "intimate",
+      "clade": "gymnosperm",
+      "organ": "foliage_venation",
+      "series": "Botanical_Intimate",
+      "extended": true,
+      "views": [
+        {
+          "key": "PRODUCT",
+          "preview": "/assets/intimate/LG-B003_PRODUCT.webp",
+          "thumb": "/assets/intimate/thumbs/LG-B003_PRODUCT.webp"
+        }
+      ],
+      "relatedIds": [
+        "HC-L326",
+        "HC-L338",
+        "HC-L343",
+        "BC-M001",
+        "BC-S001"
+      ]
+    },
+    {
+      "id": "BK-FL001",
+      "code": "BK001",
+      "taxonKey": "迎春花",
+      "name": {
+        "zh": "迎春花",
+        "en": "Botanical Resort BK001"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL001_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL001_D1.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL001_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL001_D3.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL001_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL001_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    }
+  ]
+}
