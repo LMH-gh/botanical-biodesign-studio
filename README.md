@@ -1,8 +1,8 @@
 # Hark Botanical Biodesign Studio · 植物仿生时装设计参考库
 
-**植物形态与服装工程的中英双语参考工作台。当前页面载入 125 个主题、252 个可切换视图；仓库包含 381 个 WebP 文件。**
+**植物形态与服装工程的中英双语参考工作台。当前页面载入 251 个主题、1,010 个可切换视图；仓库包含 1,899 个 WebP 文件。**
 
-**A bilingual reference studio for botanical morphology and garment engineering. The current page loads 125 themes and 252 selectable views; the repository contains 381 WebP files.**
+**A bilingual reference studio for botanical morphology and garment engineering. The current page loads 251 themes and 1,010 selectable views; the repository contains 1,899 WebP files.**
 
 > **视觉资产严正声明（Non-Commercial & No-AI-Training Notice）**
 >
@@ -10,9 +10,9 @@
 
 ## 当前仓库内容 | Current Repository Snapshot
 
-下表来自当前 `public/data/catalog.json`、页面内嵌条目与实际文件清单，不代表尚未收录的完整规划库。JSON 目录有 124 条记录；页面先使用 12 个内嵌条目，再补入 ID 不重复的 JSON 记录，因此最终显示 125 个主题。11 个同 ID 条目以页面内嵌版本为准，另有内嵌条目 `LG-B008`。
+下表来自当前 `public/data/catalog.json`、页面内嵌条目与实际文件清单，不代表尚未收录的完整规划库。JSON 目录有 250 条记录；页面使用 11 个内嵌条目，再补入 ID 不重复的 JSON 记录，最终显示 251 个主题。10 个同 ID 条目以页面内嵌版本为准，另有内嵌条目 `LG-B008`。
 
-The table below reflects the checked-in `public/data/catalog.json`, embedded entries, and files, not the larger planned collection. The JSON catalog has 124 records. The page starts with 12 embedded entries and appends JSON records with new IDs, resulting in 125 themes. Embedded versions take precedence for 11 matching IDs; `LG-B008` is an additional embedded entry.
+The table below reflects the checked-in `public/data/catalog.json`, embedded entries, and files, not the larger planned collection. The JSON catalog has 250 records. The page starts with 11 embedded entries and appends JSON records with new IDs, resulting in 251 themes. Embedded versions take precedence for 10 matching IDs; `LG-B008` is an additional embedded entry.
 
 | 类别 / Category | 主题 / Themes | 可切换视图 / Views |
 | ----- | -----: | -----: |
@@ -20,12 +20,12 @@ The table below reflects the checked-in `public/data/catalog.json`, embedded ent
 | 日常矩阵 / Casual Matrix | 9 | 45 |
 | 生境成衣 / Habitat Study | 91 | 91 |
 | 结构内衣 / Intimate Structure | 4 | 8 |
-| 度假泳装 / Resortwear | 1 | 3 |
-| **运行时合计 / Runtime total** | **125** | **252** |
+| 度假泳装 / Resortwear | 127 | 761 |
+| **运行时合计 / Runtime total** | **251** | **1,010** |
 
-当前页面共 112 个不同 `taxonKey`。`public/assets/` 含 381 个 WebP 文件，约 9.7 MiB：目录关联 249 张预览图，另有 132 张缩略图。页面内嵌视图使用 data URI，不计入 WebP 文件数。
+当前页面共 239 个不同 `taxonKey`。`public/assets/` 含 1,899 个 WebP 文件，约 94.4 MiB：目录关联 1,007 张预览图，另有 892 张缩略图。页面内嵌视图使用 data URI，不计入 WebP 文件数。原始 PNG 未提交到仓库。
 
-The current page contains 112 distinct `taxonKey` values. `public/assets/` contains 381 WebP files (about 9.7 MiB): 249 catalog-linked previews and 132 thumbnails. Embedded views use data URIs and are not included in the WebP file count.
+The current page contains 239 distinct `taxonKey` values. `public/assets/` contains 1,899 WebP files (about 94.4 MiB): 1,007 catalog-linked previews and 892 thumbnails. Embedded views use data URIs and are not included in the WebP file count. Raw PNG sources are not committed.
 
 ## 功能 | Features
 

@@ -134,6 +134,11 @@ def normalize_taxon_key(name_zh: str) -> str:
     return synonyms.get(cleaned, cleaned)
 
 
+def is_excluded_non_plant(*labels: str) -> bool:
+    text = " ".join(labels).casefold()
+    return any(keyword.casefold() in text for keyword in EXCLUDED_NON_PLANT_KEYWORDS)
+
+
 def transcode_webp_with_protection(
     src_path: Path,
     preview_out: Path,
@@ -260,9 +265,9 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
             if not m:
                 continue
             l_num = int(m.group(1))
-            if l_num not in GOWN_ALLOWED_L_NUMBERS:
-                continue
             raw_name = m.group(2)
+            if l_num not in GOWN_ALLOWED_L_NUMBERS or is_excluded_non_plant(raw_name):
+                continue
             name_zh, latin_name = GOWN_PINYIN_NAME_MAP.get(l_num, (raw_name, ""))
             series_code = folder.parent.name.split("_")[0] if folder.parent != gown_root else "L_SPECIES"
             item_id = f"HC-L{l_num:03d}"
@@ -276,13 +281,14 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
                     view_key = img_path.stem.split("_")[-1].upper()
                     rel_webp = f"/assets/gown/{item_id}_{view_key}.webp"
                     rel_thumb = f"/assets/gown/thumbs/{item_id}_{view_key}.webp"
+                    has_thumb = view_key == "D1"
                     if not dry_run:
                         transcode_webp_with_protection(
                             img_path,
                             out_dir / rel_webp.lstrip("/"),
-                            out_dir / rel_thumb.lstrip("/") if view_key == "D1" else None,
+                            out_dir / rel_thumb.lstrip("/") if has_thumb else None,
                         )
-                    views.append({"key": view_key, "preview": rel_webp, "thumb": rel_thumb})
+                    views.append({"key": view_key, "preview": rel_webp, "thumb": rel_thumb if has_thumb else None})
                     total_images_count += 1
 
             if views:
@@ -311,7 +317,7 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
                 continue
             c_num = int(m.group(1))
             name_zh = m.group(2)
-            if c_num in CASUAL_MATRIX_EXCLUDED_FUNGI_NUMS or any(k in name_zh for k in EXCLUDED_NON_PLANT_KEYWORDS):
+            if c_num in CASUAL_MATRIX_EXCLUDED_FUNGI_NUMS or is_excluded_non_plant(name_zh):
                 continue
             item_id = f"BC-M{c_num:03d}"
             taxon_key = normalize_taxon_key(name_zh)
@@ -326,13 +332,14 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
                     latin_genus = dm.group(2).capitalize()
                     rel_webp = f"/assets/casual/{item_id}_{v_key}.webp"
                     rel_thumb = f"/assets/casual/thumbs/{item_id}_{v_key}.webp"
+                    has_thumb = v_key in ("D1", "VIBE")
                     if not dry_run:
                         transcode_webp_with_protection(
                             img_path,
                             out_dir / rel_webp.lstrip("/"),
-                            out_dir / rel_thumb.lstrip("/") if v_key in ("D1", "VIBE") else None,
+                            out_dir / rel_thumb.lstrip("/") if has_thumb else None,
                         )
-                    views.append({"key": v_key, "preview": rel_webp, "thumb": rel_thumb})
+                    views.append({"key": v_key, "preview": rel_webp, "thumb": rel_thumb if has_thumb else None})
                     total_images_count += 1
             if views:
                 entries.append({
@@ -352,17 +359,39 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
     # 3. 植物实景同框成衣 (hark-设计)
     hab_root = source_root / "hark-设计"
     if hab_root.exists():
+        habitat_names: Dict[int, str] = {}
+        for folder in hab_root.iterdir():
+            if not folder.is_dir():
+                continue
+            folder_match = re.match(r"^C0*(\d+)_(.+)_时装片$", folder.name, re.I)
+            if folder_match:
+                habitat_names[int(folder_match.group(1))] = folder_match.group(2)
+
+        habitat_images: Dict[int, Tuple[Path, str, str]] = {}
         for img_path in sorted(hab_root.glob("C*_final.png")):
             if not is_valid_image_file(img_path):
                 continue
-            m = re.match(r"^C0*(\d+)_([a-z_]+)_(.+)_final\.png$", img_path.name, re.I)
+            m = re.match(r"^C0*(\d+)_([a-z]+)(?:_v\d+)?_final\.png$", img_path.name, re.I)
             if not m:
                 continue
             c_num = int(m.group(1))
-            genus = m.group(2)
-            name_zh = m.group(3)
-            if any(k in f"{name_zh} {genus}".lower() for k in EXCLUDED_NON_PLANT_KEYWORDS):
+            genus = m.group(2).lower()
+            name_zh = habitat_names.get(c_num, genus)
+            if is_excluded_non_plant(name_zh, genus):
                 continue
+            habitat_images[c_num] = (img_path, genus, name_zh)
+
+        for img_path in sorted(hab_root.glob("C*_终图.png")):
+            m = re.match(r"^C0*(\d+)_([^_]+)_.+_终图\.png$", img_path.name)
+            if not m:
+                continue
+            c_num = int(m.group(1))
+            name_zh = habitat_names.get(c_num, m.group(2))
+            genus = "ginkgo" if "银杏" in name_zh else m.group(2).lower()
+            if c_num not in habitat_images and not is_excluded_non_plant(name_zh, genus):
+                habitat_images[c_num] = (img_path, genus, name_zh)
+
+        for c_num, (img_path, genus, name_zh) in sorted(habitat_images.items()):
             item_id = f"BC-S{c_num:03d}"
             taxon_key = normalize_taxon_key(name_zh)
             rel_webp = f"/assets/habitat/{item_id}_FINAL.webp"
@@ -389,35 +418,39 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
     if intimate_root.exists():
         idx = 1
         for folder in sorted(intimate_root.iterdir()):
-            if not folder.is_dir() or any(k in folder.name for k in EXCLUDED_NON_PLANT_KEYWORDS):
+            if not folder.is_dir() or is_excluded_non_plant(folder.name):
                 continue
             name_zh = folder.name
             taxon_key = normalize_taxon_key(name_zh)
             item_id = f"LG-B{idx:03d}"
             idx += 1
             views = []
-            for img_path in sorted(folder.glob("*.png")):
-                if not is_valid_image_file(img_path):
+            for suffix, label in (
+                ("_front.png", "FRONT"),
+                ("_back.png", "BACK"),
+                ("_left.png", "LEFT"),
+                ("_right.png", "RIGHT"),
+                ("_product.png", "PRODUCT"),
+                ("_hair_makeup_board.png", "BOARD"),
+            ):
+                candidates = sorted(
+                    img_path for img_path in folder.glob("*.png")
+                    if is_valid_image_file(img_path) and img_path.name.lower().endswith(suffix)
+                )
+                if not candidates:
                     continue
-                for suffix, label in (
-                    ("_front.png", "FRONT"),
-                    ("_back.png", "BACK"),
-                    ("_left.png", "LEFT"),
-                    ("_right.png", "RIGHT"),
-                    ("_product.png", "PRODUCT"),
-                    ("_hair_makeup_board.png", "BOARD"),
-                ):
-                    if img_path.name.endswith(suffix):
-                        rel_webp = f"/assets/intimate/{item_id}_{label}.webp"
-                        rel_thumb = f"/assets/intimate/thumbs/{item_id}_{label}.webp"
-                        if not dry_run:
-                            transcode_webp_with_protection(
-                                img_path,
-                                out_dir / rel_webp.lstrip("/"),
-                                out_dir / rel_thumb.lstrip("/") if label in ("FRONT", "PRODUCT", "BOARD") else None,
-                            )
-                        views.append({"key": label, "preview": rel_webp, "thumb": rel_thumb})
-                        total_images_count += 1
+                img_path = candidates[0]
+                rel_webp = f"/assets/intimate/{item_id}_{label}.webp"
+                rel_thumb = f"/assets/intimate/thumbs/{item_id}_{label}.webp"
+                has_thumb = label in ("FRONT", "PRODUCT", "BOARD")
+                if not dry_run:
+                    transcode_webp_with_protection(
+                        img_path,
+                        out_dir / rel_webp.lstrip("/"),
+                        out_dir / rel_thumb.lstrip("/") if has_thumb else None,
+                    )
+                views.append({"key": label, "preview": rel_webp, "thumb": rel_thumb if has_thumb else None})
+                total_images_count += 1
             if views:
                 entries.append({
                     "id": item_id,
@@ -444,6 +477,8 @@ def build_catalog(source_root: Path, out_dir: Path, dry_run: bool = False) -> Di
                 continue
             bk_num = int(m.group(1))
             name_zh = m.group(2)
+            if is_excluded_non_plant(name_zh):
+                continue
             item_id = f"BK-FL{bk_num:03d}"
             taxon_key = normalize_taxon_key(name_zh)
             views = []

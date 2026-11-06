@@ -8,9 +8,9 @@
     "tdmReservation": 1
   },
   "counts": {
-    "totalThemes": 124,
-    "totalImages": 249,
-    "uniqueTaxa": 111
+    "totalThemes": 250,
+    "totalImages": 1007,
+    "uniqueTaxa": 235
   },
   "items": [
     {
@@ -35,27 +35,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L005_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L005_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L005_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L005_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L005_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L005_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L005_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L005_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L005_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L005_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -82,27 +82,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L009_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L009_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L009_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L009_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L009_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L009_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L009_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L009_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L009_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L009_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -129,27 +129,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L727_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L727_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L727_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L727_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L727_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L727_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L727_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L727_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L727_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L727_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": [
@@ -178,27 +178,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L731_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L731_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L731_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L731_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L731_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L731_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L731_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L731_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L731_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L731_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": [
@@ -249,27 +249,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L206_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L206_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L206_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L206_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L206_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L206_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L206_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L206_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L206_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L206_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -318,27 +318,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L218_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L218_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L218_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L218_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L218_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L218_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L218_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L218_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L218_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L218_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -365,27 +365,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L236_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L236_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L236_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L236_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L236_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L236_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L236_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L236_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L236_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L236_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -412,27 +412,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L246_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L246_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L246_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L246_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L246_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L246_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L246_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L246_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L246_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L246_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": [
@@ -461,27 +461,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L256_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L256_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L256_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L256_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L256_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L256_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L256_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L256_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L256_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L256_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -508,27 +508,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L274_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L274_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L274_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L274_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L274_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L274_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L274_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L274_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L274_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L274_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -555,27 +555,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L302_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L302_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L302_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L302_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L302_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L302_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L302_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L302_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L302_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L302_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -602,27 +602,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L316_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L316_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L316_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L316_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L316_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L316_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L316_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L316_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L316_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L316_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -649,27 +649,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L326_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L326_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L326_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L326_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L326_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L326_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L326_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L326_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L326_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L326_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": [
@@ -730,27 +730,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L343_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L343_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L343_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L343_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L343_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L343_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L343_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L343_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L343_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L343_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": [
@@ -783,27 +783,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L350_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L350_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L350_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L350_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L350_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L350_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L350_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L350_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L350_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L350_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -830,27 +830,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L351_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L351_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L351_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L351_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L351_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L351_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L351_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L351_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L351_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L351_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": [
@@ -879,27 +879,27 @@
         {
           "key": "D2",
           "preview": "/assets/gown/HC-L363_D2.webp",
-          "thumb": "/assets/gown/thumbs/HC-L363_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/gown/HC-L363_D3.webp",
-          "thumb": "/assets/gown/thumbs/HC-L363_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/gown/HC-L363_D4.webp",
-          "thumb": "/assets/gown/thumbs/HC-L363_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/gown/HC-L363_D5.webp",
-          "thumb": "/assets/gown/thumbs/HC-L363_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/gown/HC-L363_D6.webp",
-          "thumb": "/assets/gown/thumbs/HC-L363_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -926,7 +926,7 @@
         {
           "key": "D2",
           "preview": "/assets/casual/BC-M001_D2.webp",
-          "thumb": "/assets/casual/thumbs/BC-M001_D2.webp"
+          "thumb": null
         },
         {
           "key": "VIBE",
@@ -936,22 +936,22 @@
         {
           "key": "D3",
           "preview": "/assets/casual/BC-M001_D3.webp",
-          "thumb": "/assets/casual/thumbs/BC-M001_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/casual/BC-M001_D4.webp",
-          "thumb": "/assets/casual/thumbs/BC-M001_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/casual/BC-M001_D5.webp",
-          "thumb": "/assets/casual/thumbs/BC-M001_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/casual/BC-M001_D6.webp",
-          "thumb": "/assets/casual/thumbs/BC-M001_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": [
@@ -1011,27 +1011,27 @@
         {
           "key": "D2",
           "preview": "/assets/casual/BC-M005_D2.webp",
-          "thumb": "/assets/casual/thumbs/BC-M005_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/casual/BC-M005_D3.webp",
-          "thumb": "/assets/casual/thumbs/BC-M005_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/casual/BC-M005_D4.webp",
-          "thumb": "/assets/casual/thumbs/BC-M005_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/casual/BC-M005_D5.webp",
-          "thumb": "/assets/casual/thumbs/BC-M005_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/casual/BC-M005_D6.webp",
-          "thumb": "/assets/casual/thumbs/BC-M005_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -1063,27 +1063,27 @@
         {
           "key": "D2",
           "preview": "/assets/casual/BC-M006_D2.webp",
-          "thumb": "/assets/casual/thumbs/BC-M006_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/casual/BC-M006_D3.webp",
-          "thumb": "/assets/casual/thumbs/BC-M006_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/casual/BC-M006_D4.webp",
-          "thumb": "/assets/casual/thumbs/BC-M006_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/casual/BC-M006_D5.webp",
-          "thumb": "/assets/casual/thumbs/BC-M006_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/casual/BC-M006_D6.webp",
-          "thumb": "/assets/casual/thumbs/BC-M006_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -1115,27 +1115,27 @@
         {
           "key": "D2",
           "preview": "/assets/casual/BC-M007_D2.webp",
-          "thumb": "/assets/casual/thumbs/BC-M007_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/casual/BC-M007_D3.webp",
-          "thumb": "/assets/casual/thumbs/BC-M007_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/casual/BC-M007_D4.webp",
-          "thumb": "/assets/casual/thumbs/BC-M007_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/casual/BC-M007_D5.webp",
-          "thumb": "/assets/casual/thumbs/BC-M007_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/casual/BC-M007_D6.webp",
-          "thumb": "/assets/casual/thumbs/BC-M007_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": []
@@ -1167,27 +1167,27 @@
         {
           "key": "D2",
           "preview": "/assets/casual/BC-M008_D2.webp",
-          "thumb": "/assets/casual/thumbs/BC-M008_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/casual/BC-M008_D3.webp",
-          "thumb": "/assets/casual/thumbs/BC-M008_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/casual/BC-M008_D4.webp",
-          "thumb": "/assets/casual/thumbs/BC-M008_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/casual/BC-M008_D5.webp",
-          "thumb": "/assets/casual/thumbs/BC-M008_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/casual/BC-M008_D6.webp",
-          "thumb": "/assets/casual/thumbs/BC-M008_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": [
@@ -1221,27 +1221,27 @@
         {
           "key": "D2",
           "preview": "/assets/casual/BC-M009_D2.webp",
-          "thumb": "/assets/casual/thumbs/BC-M009_D2.webp"
+          "thumb": null
         },
         {
           "key": "D3",
           "preview": "/assets/casual/BC-M009_D3.webp",
-          "thumb": "/assets/casual/thumbs/BC-M009_D3.webp"
+          "thumb": null
         },
         {
           "key": "D4",
           "preview": "/assets/casual/BC-M009_D4.webp",
-          "thumb": "/assets/casual/thumbs/BC-M009_D4.webp"
+          "thumb": null
         },
         {
           "key": "D5",
           "preview": "/assets/casual/BC-M009_D5.webp",
-          "thumb": "/assets/casual/thumbs/BC-M009_D5.webp"
+          "thumb": null
         },
         {
           "key": "D6",
           "preview": "/assets/casual/BC-M009_D6.webp",
-          "thumb": "/assets/casual/thumbs/BC-M009_D6.webp"
+          "thumb": null
         }
       ],
       "relatedIds": [
@@ -2076,7 +2076,9 @@
           "thumb": "/assets/habitat/thumbs/BC-S060_FINAL.webp"
         }
       ],
-      "relatedIds": []
+      "relatedIds": [
+        "BK-FL119"
+      ]
     },
     {
       "id": "BC-S061",
@@ -2120,7 +2122,9 @@
           "thumb": "/assets/habitat/thumbs/BC-S062_FINAL.webp"
         }
       ],
-      "relatedIds": []
+      "relatedIds": [
+        "BK-FL065"
+      ]
     },
     {
       "id": "BC-S063",
@@ -3422,14 +3426,5950 @@
           "thumb": "/assets/resort/thumbs/BK-FL001_D1.webp"
         },
         {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL001_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL001_D2.webp"
+        },
+        {
           "key": "D3",
           "preview": "/assets/resort/BK-FL001_D3.webp",
           "thumb": "/assets/resort/thumbs/BK-FL001_D3.webp"
         },
         {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL001_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL001_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL001_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL001_D5.webp"
+        },
+        {
           "key": "D6",
           "preview": "/assets/resort/BK-FL001_D6.webp",
           "thumb": "/assets/resort/thumbs/BK-FL001_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL002",
+      "code": "BK002",
+      "taxonKey": "白丁香",
+      "name": {
+        "zh": "白丁香",
+        "en": "Botanical Resort BK002"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL002_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL002_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL002_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL002_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL002_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL002_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL002_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL002_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL002_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL002_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL002_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL002_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL003",
+      "code": "BK003",
+      "taxonKey": "紫丁香",
+      "name": {
+        "zh": "紫丁香",
+        "en": "Botanical Resort BK003"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL003_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL003_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL003_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL003_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL003_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL003_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL003_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL003_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL003_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL003_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL003_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL003_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL004",
+      "code": "BK004",
+      "taxonKey": "山桃",
+      "name": {
+        "zh": "山桃",
+        "en": "Botanical Resort BK004"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL004_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL004_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL004_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL004_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL004_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL004_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL004_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL004_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL004_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL004_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL004_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL004_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL005",
+      "code": "BK005",
+      "taxonKey": "贴梗海棠",
+      "name": {
+        "zh": "贴梗海棠",
+        "en": "Botanical Resort BK005"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL005_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL005_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL005_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL005_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL005_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL005_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL005_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL005_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL005_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL005_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL005_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL005_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL006",
+      "code": "BK006",
+      "taxonKey": "附地菜",
+      "name": {
+        "zh": "附地菜",
+        "en": "Botanical Resort BK006"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL006_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL006_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL006_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL006_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL006_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL006_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL006_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL006_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL006_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL006_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL006_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL006_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL007",
+      "code": "BK007",
+      "taxonKey": "连翘",
+      "name": {
+        "zh": "连翘",
+        "en": "Botanical Resort BK007"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL007_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL007_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL007_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL007_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL007_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL007_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL007_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL007_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL007_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL007_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL007_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL007_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL008",
+      "code": "BK008",
+      "taxonKey": "点地梅",
+      "name": {
+        "zh": "点地梅",
+        "en": "Botanical Resort BK008"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL008_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL008_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL008_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL008_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL008_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL008_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL008_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL008_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL008_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL008_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL008_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL008_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL009",
+      "code": "BK009",
+      "taxonKey": "早开堇菜",
+      "name": {
+        "zh": "早开堇菜",
+        "en": "Botanical Resort BK009"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL009_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL009_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL009_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL009_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL009_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL009_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL009_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL009_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL009_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL009_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL009_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL009_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL010",
+      "code": "BK010",
+      "taxonKey": "单粉桃",
+      "name": {
+        "zh": "单粉桃",
+        "en": "Botanical Resort BK010"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL010_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL010_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL010_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL010_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL010_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL010_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL010_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL010_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL010_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL010_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL010_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL010_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL011",
+      "code": "BK011",
+      "taxonKey": "北美海棠",
+      "name": {
+        "zh": "北美海棠",
+        "en": "Botanical Resort BK011"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL011_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL011_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL011_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL011_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL011_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL011_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL011_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL011_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL011_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL011_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL011_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL011_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL012",
+      "code": "BK012",
+      "taxonKey": "斑种草",
+      "name": {
+        "zh": "斑种草",
+        "en": "Botanical Resort BK012"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL012_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL012_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL012_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL012_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL012_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL012_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL012_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL012_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL012_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL012_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL012_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL012_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL013",
+      "code": "BK013",
+      "taxonKey": "腊梅",
+      "name": {
+        "zh": "腊梅",
+        "en": "Botanical Resort BK013"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL013_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL013_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL013_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL013_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL013_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL013_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL013_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL013_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL013_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL013_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL013_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL013_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL014",
+      "code": "BK014",
+      "taxonKey": "白碧桃",
+      "name": {
+        "zh": "白碧桃",
+        "en": "Botanical Resort BK014"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL014_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL014_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL014_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL014_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL014_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL014_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL014_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL014_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL014_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL014_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL014_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL014_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL015",
+      "code": "BK015",
+      "taxonKey": "西山堇菜",
+      "name": {
+        "zh": "西山堇菜",
+        "en": "Botanical Resort BK015"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL015_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL015_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL015_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL015_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL015_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL015_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL015_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL015_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL015_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL015_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL015_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL015_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL016",
+      "code": "BK016",
+      "taxonKey": "红碧桃",
+      "name": {
+        "zh": "红碧桃",
+        "en": "Botanical Resort BK016"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL016_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL016_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL016_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL016_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL016_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL016_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL016_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL016_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL016_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL016_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL016_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL016_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL017",
+      "code": "BK017",
+      "taxonKey": "石榴花",
+      "name": {
+        "zh": "石榴花",
+        "en": "Botanical Resort BK017"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL017_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL017_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL017_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL017_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL017_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL017_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL017_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL017_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL017_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL017_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL017_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL017_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL018",
+      "code": "BK018",
+      "taxonKey": "狭苞斑种草",
+      "name": {
+        "zh": "狭苞斑种草",
+        "en": "Botanical Resort BK018"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL018_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL018_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL018_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL018_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL018_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL018_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL018_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL018_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL018_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL018_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL018_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL018_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL019",
+      "code": "BK019",
+      "taxonKey": "元宝槭",
+      "name": {
+        "zh": "元宝槭",
+        "en": "Botanical Resort BK019"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL019_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL019_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL019_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL019_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL019_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL019_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL019_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL019_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL019_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL019_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL019_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL019_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL020",
+      "code": "BK020",
+      "taxonKey": "白梅",
+      "name": {
+        "zh": "白梅",
+        "en": "Botanical Resort BK020"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL020_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL020_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL020_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL020_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL020_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL020_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL020_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL020_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL020_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL020_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL020_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL020_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL021",
+      "code": "BK021",
+      "taxonKey": "南山堇菜",
+      "name": {
+        "zh": "南山堇菜",
+        "en": "Botanical Resort BK021"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL021_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL021_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL021_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL021_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL021_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL021_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL021_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL021_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL021_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL021_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL021_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL021_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL022",
+      "code": "BK022",
+      "taxonKey": "西府海棠",
+      "name": {
+        "zh": "西府海棠",
+        "en": "Botanical Resort BK022"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL022_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL022_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL022_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL022_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL022_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL022_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL022_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL022_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL022_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL022_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL022_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL022_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL023",
+      "code": "BK023",
+      "taxonKey": "百日菊",
+      "name": {
+        "zh": "百日菊",
+        "en": "Botanical Resort BK023"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL023_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL023_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL023_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL023_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL023_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL023_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL023_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL023_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL023_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL023_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL023_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL023_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL024",
+      "code": "BK024",
+      "taxonKey": "勿忘草",
+      "name": {
+        "zh": "勿忘草",
+        "en": "Botanical Resort BK024"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL024_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL024_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL024_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL024_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL024_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL024_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL024_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL024_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL024_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL024_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL024_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL024_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL025",
+      "code": "BK025",
+      "taxonKey": "白屈菜",
+      "name": {
+        "zh": "白屈菜",
+        "en": "Botanical Resort BK025"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL025_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL025_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL025_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL025_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL025_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL025_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL025_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL025_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL025_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL025_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL025_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL025_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL026",
+      "code": "BK026",
+      "taxonKey": "山杏",
+      "name": {
+        "zh": "山杏",
+        "en": "Botanical Resort BK026"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL026_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL026_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL026_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL026_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL026_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL026_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL026_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL026_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL026_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL026_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL026_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL026_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL027",
+      "code": "BK027",
+      "taxonKey": "鸡腿堇菜",
+      "name": {
+        "zh": "鸡腿堇菜",
+        "en": "Botanical Resort BK027"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL027_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL027_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL027_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL027_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL027_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL027_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL027_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL027_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL027_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL027_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL027_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL027_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL028",
+      "code": "BK028",
+      "taxonKey": "蜀葵",
+      "name": {
+        "zh": "蜀葵",
+        "en": "Botanical Resort BK028"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL028_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL028_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL028_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL028_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL028_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL028_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL028_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL028_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL028_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL028_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL028_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL028_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL029",
+      "code": "BK029",
+      "taxonKey": "新疆忍冬",
+      "name": {
+        "zh": "新疆忍冬",
+        "en": "Botanical Resort BK029"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL029_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL029_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL029_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL029_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL029_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL029_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL029_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL029_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL029_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL029_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL029_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL029_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL030",
+      "code": "BK030",
+      "taxonKey": "婆婆纳",
+      "name": {
+        "zh": "婆婆纳",
+        "en": "Botanical Resort BK030"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL030_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL030_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL030_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL030_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL030_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL030_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL030_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL030_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL030_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL030_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL030_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL030_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL031",
+      "code": "BK031",
+      "taxonKey": "栾树",
+      "name": {
+        "zh": "栾树",
+        "en": "Botanical Resort BK031"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL031_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL031_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL031_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL031_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL031_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL031_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL031_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL031_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL031_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL031_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL031_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL031_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL032",
+      "code": "BK032",
+      "taxonKey": "杜梨",
+      "name": {
+        "zh": "杜梨",
+        "en": "Botanical Resort BK032"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL032_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL032_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL032_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL032_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL032_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL032_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL032_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL032_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL032_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL032_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL032_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL032_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL033",
+      "code": "BK033",
+      "taxonKey": "二乔玉兰",
+      "name": {
+        "zh": "二乔玉兰",
+        "en": "Botanical Resort BK033"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL033_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL033_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL033_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL033_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL033_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL033_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL033_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL033_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL033_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL033_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL033_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL033_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL034",
+      "code": "BK034",
+      "taxonKey": "锦带花",
+      "name": {
+        "zh": "锦带花",
+        "en": "Botanical Resort BK034"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL034_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL034_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL034_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL034_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL034_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL034_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL034_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL034_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL034_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL034_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL034_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL034_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL035",
+      "code": "BK035",
+      "taxonKey": "文冠果",
+      "name": {
+        "zh": "文冠果",
+        "en": "Botanical Resort BK035"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "seed_dispersal",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL035_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL035_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL035_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL035_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL035_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL035_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL035_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL035_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL035_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL035_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL035_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL035_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL036",
+      "code": "BK036",
+      "taxonKey": "鳞叶龙胆",
+      "name": {
+        "zh": "鳞叶龙胆",
+        "en": "Botanical Resort BK036"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL036_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL036_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL036_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL036_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL036_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL036_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL036_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL036_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL036_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL036_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL036_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL036_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL037",
+      "code": "BK037",
+      "taxonKey": "锦鸡儿",
+      "name": {
+        "zh": "锦鸡儿",
+        "en": "Botanical Resort BK037"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL037_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL037_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL037_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL037_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL037_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL037_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL037_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL037_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL037_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL037_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL037_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL037_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL038",
+      "code": "BK038",
+      "taxonKey": "大丁草",
+      "name": {
+        "zh": "大丁草",
+        "en": "Botanical Resort BK038"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL038_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL038_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL038_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL038_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL038_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL038_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL038_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL038_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL038_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL038_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL038_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL038_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL039",
+      "code": "BK039",
+      "taxonKey": "通泉草",
+      "name": {
+        "zh": "通泉草",
+        "en": "Botanical Resort BK039"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL039_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL039_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL039_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL039_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL039_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL039_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL039_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL039_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL039_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL039_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL039_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL039_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL040",
+      "code": "BK040",
+      "taxonKey": "榆叶梅",
+      "name": {
+        "zh": "榆叶梅",
+        "en": "Botanical Resort BK040"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL040_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL040_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL040_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL040_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL040_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL040_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL040_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL040_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL040_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL040_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL040_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL040_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL041",
+      "code": "BK041",
+      "taxonKey": "猬实",
+      "name": {
+        "zh": "猬实",
+        "en": "Botanical Resort BK041"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL041_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL041_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL041_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL041_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL041_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL041_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL041_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL041_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL041_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL041_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL041_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL041_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL042",
+      "code": "BK042",
+      "taxonKey": "鸭跖草",
+      "name": {
+        "zh": "鸭跖草",
+        "en": "Botanical Resort BK042"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL042_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL042_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL042_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL042_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL042_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL042_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL042_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL042_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL042_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL042_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL042_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL042_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL043",
+      "code": "BK043",
+      "taxonKey": "蒲公英",
+      "name": {
+        "zh": "蒲公英",
+        "en": "Botanical Resort BK043"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL043_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL043_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL043_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL043_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL043_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL043_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL043_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL043_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL043_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL043_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL043_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL043_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL044",
+      "code": "BK044",
+      "taxonKey": "蚂蚱腿子",
+      "name": {
+        "zh": "蚂蚱腿子",
+        "en": "Botanical Resort BK044"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL044_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL044_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL044_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL044_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL044_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL044_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL044_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL044_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL044_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL044_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL044_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL044_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL045",
+      "code": "BK045",
+      "taxonKey": "活血丹",
+      "name": {
+        "zh": "活血丹",
+        "en": "Botanical Resort BK045"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL045_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL045_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL045_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL045_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL045_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL045_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL045_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL045_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL045_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL045_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL045_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL045_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL046",
+      "code": "BK046",
+      "taxonKey": "重瓣榆叶梅",
+      "name": {
+        "zh": "重瓣榆叶梅",
+        "en": "Botanical Resort BK046"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL046_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL046_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL046_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL046_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL046_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL046_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL046_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL046_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL046_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL046_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL046_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL046_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL047",
+      "code": "BK047",
+      "taxonKey": "太阳花",
+      "name": {
+        "zh": "太阳花",
+        "en": "Botanical Resort BK047"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL047_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL047_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL047_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL047_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL047_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL047_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL047_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL047_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL047_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL047_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL047_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL047_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL048",
+      "code": "BK048",
+      "taxonKey": "蓝雪花",
+      "name": {
+        "zh": "蓝雪花",
+        "en": "Botanical Resort BK048"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL048_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL048_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL048_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL048_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL048_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL048_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL048_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL048_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL048_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL048_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL048_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL048_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL049",
+      "code": "BK049",
+      "taxonKey": "鸦葱",
+      "name": {
+        "zh": "鸦葱",
+        "en": "Botanical Resort BK049"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL049_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL049_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL049_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL049_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL049_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL049_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL049_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL049_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL049_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL049_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL049_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL049_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL050",
+      "code": "BK050",
+      "taxonKey": "紫叶李",
+      "name": {
+        "zh": "紫叶李",
+        "en": "Botanical Resort BK050"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL050_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL050_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL050_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL050_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL050_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL050_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL050_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL050_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL050_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL050_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL050_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL050_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL051",
+      "code": "BK051",
+      "taxonKey": "诸葛菜",
+      "name": {
+        "zh": "诸葛菜",
+        "en": "Botanical Resort BK051"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL051_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL051_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL051_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL051_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL051_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL051_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL051_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL051_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL051_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL051_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL051_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL051_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL052",
+      "code": "BK052",
+      "taxonKey": "美人梅",
+      "name": {
+        "zh": "美人梅",
+        "en": "Botanical Resort BK052"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL052_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL052_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL052_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL052_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL052_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL052_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL052_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL052_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL052_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL052_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL052_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL052_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL053",
+      "code": "BK053",
+      "taxonKey": "射干",
+      "name": {
+        "zh": "射干",
+        "en": "Botanical Resort BK053"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL053_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL053_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL053_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL053_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL053_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL053_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL053_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL053_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL053_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL053_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL053_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL053_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL054",
+      "code": "BK054",
+      "taxonKey": "柳叶水甘草",
+      "name": {
+        "zh": "柳叶水甘草",
+        "en": "Botanical Resort BK054"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL054_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL054_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL054_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL054_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL054_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL054_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL054_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL054_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL054_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL054_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL054_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL054_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL055",
+      "code": "BK055",
+      "taxonKey": "狗舌草",
+      "name": {
+        "zh": "狗舌草",
+        "en": "Botanical Resort BK055"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL055_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL055_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL055_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL055_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL055_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL055_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL055_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL055_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL055_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL055_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL055_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL055_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL056",
+      "code": "BK056",
+      "taxonKey": "苹果花",
+      "name": {
+        "zh": "苹果花",
+        "en": "Botanical Resort BK056"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "seed_dispersal",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL056_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL056_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL056_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL056_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL056_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL056_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL056_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL056_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL056_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL056_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL056_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL056_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL057",
+      "code": "BK057",
+      "taxonKey": "紫荆",
+      "name": {
+        "zh": "紫荆",
+        "en": "Botanical Resort BK057"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL057_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL057_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL057_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL057_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL057_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL057_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL057_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL057_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL057_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL057_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL057_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL057_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL058",
+      "code": "BK058",
+      "taxonKey": "早樱",
+      "name": {
+        "zh": "早樱",
+        "en": "Botanical Resort BK058"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL058_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL058_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL058_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL058_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL058_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL058_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL058_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL058_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL058_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL058_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL058_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL058_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL059",
+      "code": "BK059",
+      "taxonKey": "鸡矢藤",
+      "name": {
+        "zh": "鸡矢藤",
+        "en": "Botanical Resort BK059"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL059_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL059_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL059_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL059_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL059_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL059_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL059_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL059_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL059_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL059_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL059_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL059_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL060",
+      "code": "BK060",
+      "taxonKey": "大花飞燕草",
+      "name": {
+        "zh": "大花飞燕草",
+        "en": "Botanical Resort BK060"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL060_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL060_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL060_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL060_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL060_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL060_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL060_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL060_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL060_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL060_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL060_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL060_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL061",
+      "code": "BK061",
+      "taxonKey": "款冬",
+      "name": {
+        "zh": "款冬",
+        "en": "Botanical Resort BK061"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL061_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL061_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL061_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL061_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL061_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL061_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL061_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL061_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL061_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL061_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL061_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL061_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL062",
+      "code": "BK062",
+      "taxonKey": "山樱",
+      "name": {
+        "zh": "山樱",
+        "en": "Botanical Resort BK062"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL062_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL062_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL062_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL062_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL062_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL062_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL062_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL062_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL062_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL062_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL062_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL062_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL063",
+      "code": "BK063",
+      "taxonKey": "紫菀",
+      "name": {
+        "zh": "紫菀",
+        "en": "Botanical Resort BK063"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL063_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL063_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL063_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL063_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL063_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL063_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL063_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL063_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL063_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL063_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL063_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL063_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL064",
+      "code": "BK064",
+      "taxonKey": "重瓣晚樱",
+      "name": {
+        "zh": "重瓣晚樱",
+        "en": "Botanical Resort BK064"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL064_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL064_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL064_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL064_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL064_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL064_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL064_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL064_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL064_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL064_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL064_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL064_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL065",
+      "code": "BK065",
+      "taxonKey": "月季",
+      "name": {
+        "zh": "月季",
+        "en": "Botanical Resort BK065"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL065_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL065_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL065_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL065_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL065_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL065_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL065_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL065_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL065_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL065_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL065_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL065_D6.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-S062"
+      ]
+    },
+    {
+      "id": "BK-FL066",
+      "code": "BK066",
+      "taxonKey": "蓝亚麻",
+      "name": {
+        "zh": "蓝亚麻",
+        "en": "Botanical Resort BK066"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL066_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL066_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL066_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL066_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL066_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL066_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL066_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL066_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL066_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL066_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL066_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL066_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL067",
+      "code": "BK067",
+      "taxonKey": "野菊花",
+      "name": {
+        "zh": "野菊花",
+        "en": "Botanical Resort BK067"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL067_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL067_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL067_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL067_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL067_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL067_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL067_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL067_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL067_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL067_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL067_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL067_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL068",
+      "code": "BK068",
+      "taxonKey": "东京樱花",
+      "name": {
+        "zh": "东京樱花",
+        "en": "Botanical Resort BK068"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL068_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL068_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL068_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL068_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL068_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL068_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL068_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL068_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL068_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL068_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL068_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL068_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL069",
+      "code": "BK069",
+      "taxonKey": "旋蒴苣苔",
+      "name": {
+        "zh": "旋蒴苣苔",
+        "en": "Botanical Resort BK069"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL069_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL069_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL069_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL069_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL069_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL069_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL069_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL069_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL069_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL069_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL069_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL069_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL070",
+      "code": "BK070",
+      "taxonKey": "羽扇豆",
+      "name": {
+        "zh": "羽扇豆",
+        "en": "Botanical Resort BK070"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL070_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL070_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL070_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL070_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL070_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL070_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL070_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL070_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL070_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL070_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL070_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL070_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL071",
+      "code": "BK071",
+      "taxonKey": "旱金莲",
+      "name": {
+        "zh": "旱金莲",
+        "en": "Botanical Resort BK071"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL071_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL071_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL071_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL071_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL071_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL071_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL071_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL071_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL071_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL071_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL071_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL071_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL072",
+      "code": "BK072",
+      "taxonKey": "矢车菊",
+      "name": {
+        "zh": "矢车菊",
+        "en": "Botanical Resort BK072"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL072_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL072_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL072_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL072_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL072_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL072_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL072_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL072_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL072_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL072_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL072_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL072_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL073",
+      "code": "BK073",
+      "taxonKey": "苦荬菜",
+      "name": {
+        "zh": "苦荬菜",
+        "en": "Botanical Resort BK073"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL073_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL073_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL073_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL073_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL073_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL073_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL073_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL073_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL073_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL073_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL073_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL073_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL074",
+      "code": "BK074",
+      "taxonKey": "白槐花",
+      "name": {
+        "zh": "白槐花",
+        "en": "Botanical Resort BK074"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL074_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL074_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL074_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL074_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL074_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL074_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL074_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL074_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL074_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL074_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL074_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL074_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL075",
+      "code": "BK075",
+      "taxonKey": "迎红杜鹃",
+      "name": {
+        "zh": "迎红杜鹃",
+        "en": "Botanical Resort BK075"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL075_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL075_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL075_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL075_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL075_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL075_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL075_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL075_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL075_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL075_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL075_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL075_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL076",
+      "code": "BK076",
+      "taxonKey": "打碗花",
+      "name": {
+        "zh": "打碗花",
+        "en": "Botanical Resort BK076"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL076_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL076_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL076_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL076_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL076_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL076_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL076_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL076_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL076_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL076_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL076_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL076_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL077",
+      "code": "BK077",
+      "taxonKey": "萱草",
+      "name": {
+        "zh": "萱草",
+        "en": "Botanical Resort BK077"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL077_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL077_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL077_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL077_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL077_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL077_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL077_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL077_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL077_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL077_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL077_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL077_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL078",
+      "code": "BK078",
+      "taxonKey": "牵牛花",
+      "name": {
+        "zh": "牵牛花",
+        "en": "Botanical Resort BK078"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL078_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL078_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL078_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL078_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL078_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL078_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL078_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL078_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL078_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL078_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL078_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL078_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL079",
+      "code": "BK079",
+      "taxonKey": "重瓣棣棠花",
+      "name": {
+        "zh": "重瓣棣棠花",
+        "en": "Botanical Resort BK079"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL079_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL079_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL079_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL079_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL079_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL079_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL079_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL079_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL079_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL079_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL079_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL079_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL080",
+      "code": "BK080",
+      "taxonKey": "大花溲疏",
+      "name": {
+        "zh": "大花溲疏",
+        "en": "Botanical Resort BK080"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL080_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL080_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL080_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL080_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL080_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL080_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL080_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL080_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL080_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL080_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL080_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL080_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL081",
+      "code": "BK081",
+      "taxonKey": "米口袋",
+      "name": {
+        "zh": "米口袋",
+        "en": "Botanical Resort BK081"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL081_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL081_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL081_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL081_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL081_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL081_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL081_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL081_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL081_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL081_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL081_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL081_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL082",
+      "code": "BK082",
+      "taxonKey": "白及",
+      "name": {
+        "zh": "白及",
+        "en": "Botanical Resort BK082"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL082_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL082_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL082_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL082_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL082_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL082_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL082_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL082_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL082_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL082_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL082_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL082_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL083",
+      "code": "BK083",
+      "taxonKey": "朱槿",
+      "name": {
+        "zh": "朱槿",
+        "en": "Botanical Resort BK083"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL083_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL083_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL083_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL083_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL083_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL083_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL083_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL083_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL083_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL083_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL083_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL083_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL084",
+      "code": "BK084",
+      "taxonKey": "翠雀",
+      "name": {
+        "zh": "翠雀",
+        "en": "Botanical Resort BK084"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL084_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL084_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL084_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL084_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL084_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL084_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL084_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL084_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL084_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL084_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL084_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL084_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL085",
+      "code": "BK085",
+      "taxonKey": "棣棠花",
+      "name": {
+        "zh": "棣棠花",
+        "en": "Botanical Resort BK085"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL085_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL085_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL085_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL085_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL085_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL085_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL085_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL085_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL085_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL085_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL085_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL085_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL086",
+      "code": "BK086",
+      "taxonKey": "山楂",
+      "name": {
+        "zh": "山楂",
+        "en": "Botanical Resort BK086"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL086_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL086_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL086_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL086_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL086_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL086_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL086_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL086_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL086_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL086_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL086_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL086_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL087",
+      "code": "BK087",
+      "taxonKey": "野豌豆",
+      "name": {
+        "zh": "野豌豆",
+        "en": "Botanical Resort BK087"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL087_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL087_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL087_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL087_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL087_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL087_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL087_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL087_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL087_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL087_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL087_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL087_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL088",
+      "code": "BK088",
+      "taxonKey": "楸",
+      "name": {
+        "zh": "楸",
+        "en": "Botanical Resort BK088"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL088_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL088_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL088_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL088_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL088_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL088_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL088_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL088_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL088_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL088_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL088_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL088_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL089",
+      "code": "BK089",
+      "taxonKey": "秋海棠",
+      "name": {
+        "zh": "秋海棠",
+        "en": "Botanical Resort BK089"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL089_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL089_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL089_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL089_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL089_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL089_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL089_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL089_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL089_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL089_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL089_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL089_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL090",
+      "code": "BK090",
+      "taxonKey": "小药巴旦子",
+      "name": {
+        "zh": "小药巴旦子",
+        "en": "Botanical Resort BK090"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL090_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL090_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL090_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL090_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL090_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL090_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL090_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL090_D4.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL090_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL090_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL091",
+      "code": "BK091",
+      "taxonKey": "秃疮花",
+      "name": {
+        "zh": "秃疮花",
+        "en": "Botanical Resort BK091"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL091_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL091_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL091_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL091_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL091_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL091_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL091_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL091_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL091_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL091_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL091_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL091_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL092",
+      "code": "BK092",
+      "taxonKey": "太平花",
+      "name": {
+        "zh": "太平花",
+        "en": "Botanical Resort BK092"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL092_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL092_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL092_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL092_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL092_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL092_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL092_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL092_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL092_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL092_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL092_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL092_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL093",
+      "code": "BK093",
+      "taxonKey": "紫苜蓿",
+      "name": {
+        "zh": "紫苜蓿",
+        "en": "Botanical Resort BK093"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL093_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL093_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL093_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL093_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL093_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL093_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL093_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL093_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL093_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL093_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL093_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL093_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL094",
+      "code": "BK094",
+      "taxonKey": "美蔷薇",
+      "name": {
+        "zh": "美蔷薇",
+        "en": "Botanical Resort BK094"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL094_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL094_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL094_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL094_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL094_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL094_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL094_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL094_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL094_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL094_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL094_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL094_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL095",
+      "code": "BK095",
+      "taxonKey": "狼毒",
+      "name": {
+        "zh": "狼毒",
+        "en": "Botanical Resort BK095"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL095_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL095_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL095_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL095_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL095_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL095_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL095_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL095_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL095_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL095_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL095_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL095_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL096",
+      "code": "BK096",
+      "taxonKey": "蓝刺头",
+      "name": {
+        "zh": "蓝刺头",
+        "en": "Botanical Resort BK096"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL096_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL096_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL096_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL096_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL096_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL096_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL096_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL096_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL096_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL096_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL096_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL096_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL097",
+      "code": "BK097",
+      "taxonKey": "山茱萸",
+      "name": {
+        "zh": "山茱萸",
+        "en": "Botanical Resort BK097"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL097_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL097_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL097_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL097_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL097_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL097_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL097_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL097_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL097_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL097_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL097_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL097_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL098",
+      "code": "BK098",
+      "taxonKey": "槭叶铁线莲",
+      "name": {
+        "zh": "槭叶铁线莲",
+        "en": "Botanical Resort BK098"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL098_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL098_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL098_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL098_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL098_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL098_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL098_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL098_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL098_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL098_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL098_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL098_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL099",
+      "code": "BK099",
+      "taxonKey": "夏枯草",
+      "name": {
+        "zh": "夏枯草",
+        "en": "Botanical Resort BK099"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL099_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL099_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL099_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL099_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL099_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL099_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL099_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL099_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL099_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL099_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL099_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL099_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL100",
+      "code": "BK100",
+      "taxonKey": "小红菊",
+      "name": {
+        "zh": "小红菊",
+        "en": "Botanical Resort BK100"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL100_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL100_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL100_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL100_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL100_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL100_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL100_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL100_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL100_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL100_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL100_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL100_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL101",
+      "code": "BK101",
+      "taxonKey": "地黄",
+      "name": {
+        "zh": "地黄",
+        "en": "Botanical Resort BK101"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL101_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL101_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL101_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL101_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL101_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL101_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL101_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL101_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL101_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL101_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL101_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL101_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL102",
+      "code": "BK102",
+      "taxonKey": "葡萄风信子",
+      "name": {
+        "zh": "葡萄风信子",
+        "en": "Botanical Resort BK102"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL102_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL102_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL102_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL102_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL102_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL102_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL102_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL102_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL102_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL102_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL102_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL102_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL103",
+      "code": "BK103",
+      "taxonKey": "蛇莓",
+      "name": {
+        "zh": "蛇莓",
+        "en": "Botanical Resort BK103"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL103_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL103_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL103_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL103_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL103_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL103_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL103_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL103_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL103_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL103_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL103_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL103_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL104",
+      "code": "BK104",
+      "taxonKey": "照山白",
+      "name": {
+        "zh": "照山白",
+        "en": "Botanical Resort BK104"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL104_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL104_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL104_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL104_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL104_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL104_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL104_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL104_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL104_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL104_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL104_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL104_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL105",
+      "code": "BK105",
+      "taxonKey": "沙参",
+      "name": {
+        "zh": "沙参",
+        "en": "Botanical Resort BK105"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL105_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL105_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL105_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL105_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL105_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL105_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL105_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL105_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL105_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL105_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL105_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL105_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL106",
+      "code": "BK106",
+      "taxonKey": "独根草",
+      "name": {
+        "zh": "独根草",
+        "en": "Botanical Resort BK106"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL106_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL106_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL106_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL106_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL106_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL106_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL106_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL106_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL106_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL106_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL106_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL106_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL107",
+      "code": "BK107",
+      "taxonKey": "凌霄花",
+      "name": {
+        "zh": "凌霄花",
+        "en": "Botanical Resort BK107"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL107_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL107_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL107_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL107_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL107_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL107_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL107_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL107_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL107_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL107_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL107_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL107_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL108",
+      "code": "BK108",
+      "taxonKey": "酢浆草",
+      "name": {
+        "zh": "酢浆草",
+        "en": "Botanical Resort BK108"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL108_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL108_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL108_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL108_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL108_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL108_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL108_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL108_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL108_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL108_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL108_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL108_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL109",
+      "code": "BK109",
+      "taxonKey": "绣线菊",
+      "name": {
+        "zh": "绣线菊",
+        "en": "Botanical Resort BK109"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL109_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL109_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL109_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL109_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL109_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL109_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL109_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL109_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL109_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL109_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL109_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL109_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL110",
+      "code": "BK110",
+      "taxonKey": "大叶铁线莲",
+      "name": {
+        "zh": "大叶铁线莲",
+        "en": "Botanical Resort BK110"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL110_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL110_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL110_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL110_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL110_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL110_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL110_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL110_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL110_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL110_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL110_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL110_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL111",
+      "code": "BK111",
+      "taxonKey": "裂叶堇菜",
+      "name": {
+        "zh": "裂叶堇菜",
+        "en": "Botanical Resort BK111"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "foliage_venation",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL111_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL111_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL111_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL111_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL111_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL111_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL111_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL111_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL111_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL111_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL111_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL111_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL112",
+      "code": "BK112",
+      "taxonKey": "有斑百合",
+      "name": {
+        "zh": "有斑百合",
+        "en": "Botanical Resort BK112"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL112_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL112_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL112_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL112_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL112_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL112_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL112_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL112_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL112_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL112_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL112_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL112_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL113",
+      "code": "BK113",
+      "taxonKey": "黄菖蒲",
+      "name": {
+        "zh": "黄菖蒲",
+        "en": "Botanical Resort BK113"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL113_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL113_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL113_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL113_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL113_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL113_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL113_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL113_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL113_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL113_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL113_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL113_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL114",
+      "code": "BK114",
+      "taxonKey": "稠李",
+      "name": {
+        "zh": "稠李",
+        "en": "Botanical Resort BK114"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL114_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL114_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL114_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL114_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL114_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL114_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL114_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL114_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL114_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL114_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL114_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL114_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL115",
+      "code": "BK115",
+      "taxonKey": "华北耧斗菜",
+      "name": {
+        "zh": "华北耧斗菜",
+        "en": "Botanical Resort BK115"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL115_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL115_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL115_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL115_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL115_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL115_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL115_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL115_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL115_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL115_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL115_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL115_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL116",
+      "code": "BK116",
+      "taxonKey": "红花刺槐",
+      "name": {
+        "zh": "红花刺槐",
+        "en": "Botanical Resort BK116"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL116_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL116_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL116_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL116_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL116_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL116_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL116_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL116_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL116_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL116_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL116_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL116_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL117",
+      "code": "BK117",
+      "taxonKey": "山丹",
+      "name": {
+        "zh": "山丹",
+        "en": "Botanical Resort BK117"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL117_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL117_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL117_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL117_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL117_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL117_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL117_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL117_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL117_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL117_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL117_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL117_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL118",
+      "code": "BK118",
+      "taxonKey": "黄刺玫",
+      "name": {
+        "zh": "黄刺玫",
+        "en": "Botanical Resort BK118"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL118_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL118_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL118_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL118_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL118_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL118_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL118_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL118_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL118_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL118_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL118_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL118_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL119",
+      "code": "BK119",
+      "taxonKey": "玉兰",
+      "name": {
+        "zh": "玉兰",
+        "en": "Botanical Resort BK119"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL119_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL119_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL119_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL119_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL119_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL119_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL119_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL119_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL119_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL119_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL119_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL119_D6.webp"
+        }
+      ],
+      "relatedIds": [
+        "BC-S060"
+      ]
+    },
+    {
+      "id": "BK-FL120",
+      "code": "BK120",
+      "taxonKey": "桔梗",
+      "name": {
+        "zh": "桔梗",
+        "en": "Botanical Resort BK120"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL120_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL120_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL120_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL120_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL120_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL120_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL120_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL120_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL120_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL120_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL120_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL120_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL121",
+      "code": "BK121",
+      "taxonKey": "木槿",
+      "name": {
+        "zh": "木槿",
+        "en": "Botanical Resort BK121"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL121_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL121_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL121_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL121_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL121_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL121_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL121_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL121_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL121_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL121_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL121_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL121_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL122",
+      "code": "BK122",
+      "taxonKey": "郁金香",
+      "name": {
+        "zh": "郁金香",
+        "en": "Botanical Resort BK122"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL122_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL122_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL122_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL122_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL122_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL122_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL122_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL122_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL122_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL122_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL122_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL122_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL123",
+      "code": "BK123",
+      "taxonKey": "椴",
+      "name": {
+        "zh": "椴",
+        "en": "Botanical Resort BK123"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL123_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL123_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL123_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL123_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL123_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL123_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL123_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL123_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL123_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL123_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL123_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL123_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL124",
+      "code": "BK124",
+      "taxonKey": "欧洲荚蒾",
+      "name": {
+        "zh": "欧洲荚蒾",
+        "en": "Botanical Resort BK124"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL124_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL124_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL124_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL124_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL124_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL124_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL124_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL124_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL124_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL124_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL124_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL124_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL125",
+      "code": "BK125",
+      "taxonKey": "白头翁",
+      "name": {
+        "zh": "白头翁",
+        "en": "Botanical Resort BK125"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL125_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL125_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL125_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL125_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL125_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL125_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL125_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL125_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL125_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL125_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL125_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL125_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL126",
+      "code": "BK126",
+      "taxonKey": "芍药",
+      "name": {
+        "zh": "芍药",
+        "en": "Botanical Resort BK126"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL126_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL126_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL126_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL126_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL126_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL126_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL126_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL126_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL126_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL126_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL126_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL126_D6.webp"
+        }
+      ],
+      "relatedIds": []
+    },
+    {
+      "id": "BK-FL127",
+      "code": "BK127",
+      "taxonKey": "地榆",
+      "name": {
+        "zh": "地榆",
+        "en": "Botanical Resort BK127"
+      },
+      "garmentLine": "resort",
+      "clade": "angiosperm",
+      "organ": "floral_corolla",
+      "series": "Botanical_Resort_Bikini",
+      "extended": true,
+      "views": [
+        {
+          "key": "D1",
+          "preview": "/assets/resort/BK-FL127_D1.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL127_D1.webp"
+        },
+        {
+          "key": "D2",
+          "preview": "/assets/resort/BK-FL127_D2.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL127_D2.webp"
+        },
+        {
+          "key": "D3",
+          "preview": "/assets/resort/BK-FL127_D3.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL127_D3.webp"
+        },
+        {
+          "key": "D4",
+          "preview": "/assets/resort/BK-FL127_D4.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL127_D4.webp"
+        },
+        {
+          "key": "D5",
+          "preview": "/assets/resort/BK-FL127_D5.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL127_D5.webp"
+        },
+        {
+          "key": "D6",
+          "preview": "/assets/resort/BK-FL127_D6.webp",
+          "thumb": "/assets/resort/thumbs/BK-FL127_D6.webp"
         }
       ],
       "relatedIds": []
