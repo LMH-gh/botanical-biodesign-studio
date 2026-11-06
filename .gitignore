@@ -1,0 +1,14 @@
+# Exclude raw source folders, videos, archives, and 4K master PNGs
+drive_sources/
+downloads/
+node_modules/
+dist/
+_site/
+*.mp4
+*.mov
+*.zip
+*_FINAL_*.png
+*_弃用*.png
+*_R1_*.png
+*_R2_*.png
+.DS_Store

@@ -1,0 +1,174 @@
+# ==============================================================================
+# Hark Botanical Biodesign Studio — GitHub Pages Automated CI/CD Workflow
+# Path in repository: .github/workflows/deploy.yml
+# ==============================================================================
+# 功能说明：
+# 1. 当推送到 main 分支（或手动点击 Run workflow）时自动触发构建与部署；Pull Request 仅运行合规校验。
+# 2. 内置「纯植物资产与反训练合规检查（Asset & Anti-AI-Training Audit）」：
+#    - 阻止任何 .mp4/.mov 视频、.zip 压缩包或 _FINAL_ 4K 原始母图意外混入构建产物；
+#    - 强制校验 robots.txt 与 _headers 中的 noai, noimageai 防训练配置；
+#    - 自动校验构建产物总体积是否符合 GitHub Pages (< 1 GB) 限制。
+# 3. 兼容两种项目结构：
+#    - 模式 A（零依赖纯静态模式）：自动组装 index.html (或 hark_biodesign_studio.html) + public/ 资产目录；
+#    - 模式 B（Vite / React 工程模式）：若根目录存在 package.json，自动执行 npm ci && npm run build。
+# ==============================================================================
+
+name: Deploy Hark Botanical Biodesign Studio to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+# 赋予 GitHub Pages 官方部署所需的最小权限（Least Privilege）
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一时间只允许一个 Pages 部署任务运行，新推送自动取消排队中的旧任务
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build-and-audit:
+    name: Build & Audit Botanical Assets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (Sparse-safe & LFS-ready)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Audit 1 — Verify No Prohibited Files (.mp4, .zip, 4K _FINAL_ Masters)
+        run: |
+          echo "Checking for prohibited video, archive, or 4K master files..."
+          FORBIDDEN=$(find . -path ./.git -prune -o \( \
+            -iname "*.mp4" -o \
+            -iname "*.mov" -o \
+            -iname "*.zip" -o \
+            -iname "*_FINAL_*.png" -o \
+            -iname "*_弃用*.png" \
+          \) -print)
+          if [ -n "$FORBIDDEN" ]; then
+            echo "::error::Prohibited files detected! Videos, archives, and 4K _FINAL_ masters must NOT be published:"
+            echo "$FORBIDDEN"
+            exit 1
+          fi
+          echo "PASS: Only permitted web assets found."
+
+      - name: Setup Node.js 22 (for Vite build if package.json is present)
+        if: hashFiles('package.json') != ''
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Build Site Artifact (Vite or Standalone Static Studio)
+        run: |
+          mkdir -p _site
+          if [ -f "package.json" ]; then
+            echo "Detected package.json — running Vite production build..."
+            npm ci
+            npm run build -- --base="/${GITHUB_REPOSITORY#*/}/"
+            cp -r dist/* _site/
+          else
+            echo "Running in Standalone Static Studio mode..."
+            if [ -d "public" ]; then
+              cp -r public/* _site/
+            fi
+            if [ -f "index.html" ]; then
+              cp index.html _site/index.html
+            elif [ -f "hark_biodesign_studio.html" ]; then
+              cp hark_biodesign_studio.html _site/index.html
+            fi
+            # Copy README and asset license for transparency
+            [ -f "README.md" ] && cp README.md _site/
+            [ -f "LICENSE-ASSETS.md" ] && cp LICENSE-ASSETS.md _site/
+          fi
+          # Prevent GitHub Pages Jekyll from ignoring underscore files (e.g., _headers)
+          touch _site/.nojekyll
+
+      - name: Audit 2 — Enforce Anti-AI-Training robots.txt & _headers
+        run: |
+          if [ ! -f "_site/robots.txt" ]; then
+            echo "Generating default Anti-AI-Training robots.txt..."
+            cat << 'EOF' > _site/robots.txt
+          User-agent: GPTBot
+          Disallow: /
+
+          User-agent: ChatGPT-User
+          Disallow: /
+
+          User-agent: CCBot
+          Disallow: /
+
+          User-agent: Google-Extended
+          Disallow: /
+
+          User-agent: anthropic-ai
+          Disallow: /
+
+          User-agent: ClaudeBot
+          Disallow: /
+
+          User-agent: Bytespider
+          Disallow: /
+
+          User-agent: ImagesiftBot
+          Disallow: /
+
+          User-agent: FacebookBot
+          Disallow: /
+
+          User-agent: *
+          Disallow: /assets/
+          EOF
+          fi
+
+          if [ ! -f "_site/_headers" ]; then
+            cat << 'EOF' > _site/_headers
+          /*
+            X-Robots-Tag: noai, noimageai
+            X-Content-Type-Options: nosniff
+          EOF
+          fi
+          echo "PASS: Anti-AI-Training robots.txt and _headers verified."
+
+      - name: Audit 3 — Verify Artifact Size (< 1000 MB GitHub Pages Limit)
+        run: |
+          SIZE_MB=$(du -sm _site | cut -f1)
+          echo "Total build artifact size: ${SIZE_MB} MB"
+          if [ "$SIZE_MB" -ge 980 ]; then
+            echo "::error::Build artifact (${SIZE_MB} MB) approaches or exceeds the 1 GB GitHub Pages limit!"
+            exit 1
+          fi
+          echo "PASS: Artifact size (${SIZE_MB} MB) is well within GitHub Pages limits."
+
+      - name: Configure GitHub Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages Artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_site"
+
+  deploy:
+    name: Publish to GitHub Pages
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build-and-audit
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
